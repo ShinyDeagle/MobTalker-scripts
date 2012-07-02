@@ -1,18 +1,18 @@
 #FETCH_NAME
 #SET_NAME (playername)
-So you are afraid of cat....KeKeKe.....
+Du hast also Angst vor Katzen....Hehehe.....
 #SET_NAME Cupa
 #FACE Tired
-Wa.wait what?::I warn you, if...if you have any cute ideas, the..they will have to glue you back together, IN HELL!
+Wa.warte was?::Ich warne dich, we...wenn du auf irgendwelche niedlichen Ideen kommst, wer..werden sie dich wieder zusammen kleben müssen, IN DER HÖLLE!
 #SET_NAME (playername)
-Ok,ok, no harm's done.::I suddenly have an urge want to keep that cat.
+Ok,ok, ist ja in Ordnung.::Ich hab nur plötzlich so ein Verlangen, diese Katze zu behalten.
 #SET_NAME Cupa
 #FACE Angry
-You...You do it on purpose..::Whoa!Get that away!Jerk!
+Du...Du machst das doch mit Absicht..::Boah!Mach das weg!Idiot!
 #SET_NAME (playername)
-Pff...Did anyone told you you have a comedian's face?
+Pff...Hat dir schonmal wer gesagt, dass du ein Gesicht, wie n Komiker hast?
 #SET_NAME Cupa
-You..you will pay for that!::I hate you!
+Du..dafür wirst du bezahlen!::Ich hasse dich!
 #ATTACK 1
 #INCREASE_LOVE 1
 #FINISH_DAY

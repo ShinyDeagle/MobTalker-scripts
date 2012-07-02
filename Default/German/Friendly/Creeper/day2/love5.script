@@ -1,23 +1,23 @@
 #FETCH_NAME
 #SET_NAME Cupa
-Morning!::Good dream last night? If you know what I mean.::I've been doing some patrol last night.
+Guten Morgen!::Schön geträumt letzte Nacht? Wenn du weißt, was ich meine.::Ich war letzte nach auf Patrolie.
 #SET_NAME Cupa
-Hey...This...this is awkward...::Are you singl::No, are you a confirmed bachelo::Damn it, eh, do you live by youself?
+Moment...Das...das ist seltsam...::Bist du singl::Nein, bist du unverheira::Ach mist, ähm, lebst du aleine?
 #SET_NAME (playername)
-Yeah, so?
+Ja, und?
 #SET_NAME Cupa
-Um...
-No,I mean..the house is comfy.::And I thought there are others.
+Ähm...
+Nein, ich meine..dein Haus ist komfortabel.::Und ich dachte, es gäbe noch Andere.
 #SET_NAME (playername)
-Yeah, surplus of resource plus too much youth to waste.
+Ja, Übermaß an Rohstoffen und zu viel Jugend zu verschwenden.
 #SET_NAME Cupa
-So..... You won't move in a near future, will you?
+Also..... Du wirst in naher Zukunft nicht umziehen, oder?
 #SET_NAME (playername)
-Yeah, got an arrow at my knee, doesn't plan for any expedition.
+Yeah, ich hab nen Pfeil ins Knie bekommen und plane derzeit keine größeren Ausflüge.
 #SET_NAME Cupa
 Hehehe..
 #SET_NAME (playername)
-(I got a bad feeling about this....)
+(Irgendwie hab ich ein schlechtes Gefühl bei der Sache....)
 #INCREASE_LOVE 5
 #FINISH_DAY
 #END

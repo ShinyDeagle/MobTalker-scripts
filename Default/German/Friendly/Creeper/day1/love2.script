@@ -1,16 +1,16 @@
 #SET_NAME Cupa
 #FACE Happy
-Danke, dass du mein Leben gerettet hast, Mister.::Puh, ich dachte, ich würde es nicht schaffen.
+Danke, dass du mein Leben gerettet hast, Mister.::Puh, ich dachte schon, ich würde es nicht schaffen.
 #SET_NAME Cupa
 #FACE Normal
 Achso, ich hab vergessen mich vorzustellen.::Ich bin Cupa, schön dich zu treffen.
 #SET_NAME Cupa
-And you are?::
+Und du bist?::
 #FETCH_NAME
 #SET_NAME (playername)
-Just call me (playername).
+Nenn mich einfach (playername).
 #SET_NAME Cupa
-(playername)?What a nice name.
+(playername)? Was für ein schöner Name.
 #INCREASE_LOVE 3
 #FINISH_DAY
 #END
