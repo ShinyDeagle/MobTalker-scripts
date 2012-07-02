@@ -1,0 +1,4 @@
+#SET_NAME Yaebi
+Okay...I surrender.What do you want?
+#CONDITION{[Hey. Are you having a walk?,Option4A],[Time to pay the blood debts ,Option4B],[Give me rotten flesh please.,Option4C]}
+#END

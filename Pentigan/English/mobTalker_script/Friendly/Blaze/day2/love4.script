@@ -1,0 +1,26 @@
+#FETCH_NAME
+#SET_NAME Blazette
+#FACE Angry
+Here you are again::back to deliver another horrible, horrible joke?
+#SET_NAME (playername)
+I'm just warming up.
+#SET_NAME Blazette
+#FACE Tired
+That was just...
+#FACE Normal
+Actually a little good.
+#SET_NAME (playername)
+And here I was thinking we were going to get into another heated argument.
+#SET_NAME Blazette
+#FACE Happy
+*Giggle*
+#FACE Normal
+Uh... Oh dear, that was a little embarassing...
+#SET_NAME (playername)
+Well I think it's hot~
+#SET_NAME Blazette
+#FACE Happy
+Thanks.::I think you're pretty nice.
+#ATTACK 1
+#INCREASE_LOVE 1
+#END

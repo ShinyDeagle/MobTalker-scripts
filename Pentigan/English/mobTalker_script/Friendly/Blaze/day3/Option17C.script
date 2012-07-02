@@ -1,0 +1,5 @@
+#SET_NAME Blazette
+#FACE Happy
+Come on, choose one.
+#CONDITION{[Is it three?,Option17D],[Four sounds about right,Option17E],[More...,Option17F]}
+#END

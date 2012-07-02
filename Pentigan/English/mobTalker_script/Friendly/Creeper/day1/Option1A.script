@@ -1,0 +1,8 @@
+#SET_NAME Agitated Creeper
+#FACE Angry
+Arhh!! WHERE! WHERE! Ssssss...
+#ATTACK 3
+#DECREASE_LOVE 3
+#SELF_DEAD
+#REV_TRANS
+#END
