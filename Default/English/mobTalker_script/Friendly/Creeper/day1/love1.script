@@ -1,0 +1,4 @@
+#SET_NAME Cupa
+CCCAT!!! G..GET IT AWAY FROM ME!!!!!
+#CONDITION{[It's next to you!,Option1A],[What cat? ,Option1B],[Does it looks like this one I just caught?,Option1C]}
+#END

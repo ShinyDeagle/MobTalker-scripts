@@ -1,0 +1,4 @@
+#SET_NAME Andr
+(sob)Do...don't look at me.
+#CONDITION{[You got a pretty face, why covering it with tears ,Option4A],[Whoa, What you crying for?, Option4B],[I want to eh... borrow your Ender Pearl. ,Option4C]}
+#END

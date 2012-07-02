@@ -1,0 +1,24 @@
+#SET_NAME (playername)
+Ok, sorry for sartling you yesterday.
+#SET_NAME Andr
+Really?
+#SET_NAME (playername)
+Yeah...Erh....::born with a scary face, couldn't help it.
+#SET_NAME Andr
+Yeah...I am not people person either.::Huh, guess it make us the same kind.
+#SET_NAME Andr
+The air is refreshing, isn't it?
+#SET_NAME (playername)
+So that's why you wander arround?
+#SET_NAME Andr
+I'm not wandering!::I am fininding something.::
+But I can't remember what it is.
+#SET_NAME (playername)
+How you find somthinf::if you don't even know what it is?
+#SET_NAME Andr
+Maybe.....um... I'll recongize it on first sight.
+#SET_NAME (playername)
+Yeah, good luck for that.
+#INCREASE_LOVE 4
+#FINISH_DAY
+#END

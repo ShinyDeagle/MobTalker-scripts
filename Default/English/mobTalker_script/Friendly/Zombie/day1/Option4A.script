@@ -1,0 +1,9 @@
+#SET_NAME Yaebi
+#FACE Shy
+Thanks! Captain obvious!
+#FACE Angry
+And,who the hell are you?
+#ATTACK 1
+#DECREASE_LOVE 1
+#FINISH_DAY
+#END
