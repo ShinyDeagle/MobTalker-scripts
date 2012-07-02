@@ -1,4 +1,4 @@
 #SET_NAME Yaebi
-Okay...I surrender.What do you want?
-#CONDITION{[Hey, are you having a walk?,Option4A],[Time to pay the blood debts ,Option4B],[Give me rotten flesh please.,Option4C]}
+Ok...ich gebe auf. Was willst du?
+#CONDITION{[Hey, machst du nen Spaziergang?,Option4A],[Zeit, die Blutschulden zu bezahlen!,Option4B],[Gib mir verrottetes Fleisch, bitte.,Option4C]}
 #END

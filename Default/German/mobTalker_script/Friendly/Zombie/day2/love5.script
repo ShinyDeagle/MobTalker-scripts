@@ -1,14 +1,14 @@
 #FETCH_NAME
 #SET_NAME (playername)
-Nice to meet you!I'm (playername)。
+Schon dich zu treffen! Ich bin (playername)。
 #SET_NAME Yaebi
-Wait what? Why you start introducing yourself?
+Warte was? hä? Wieso fängst du jetzt an, dich vorzustellen?
 #SET_NAME (playername)
-What's your name?
+Was ist dein Name?
 #SET_NAME Yaebi
-Me?eh..Yaebi.
+Meiner?Äh..Yaebi.
 #SET_NAME (playername)
-I want to know more about you.
+Ich würde gern mehr über dich erfahren.
 #SET_NAME Yaebi
 Hold it right there, pervert.Stop!
 It's disgusting!::Cut that tone.
