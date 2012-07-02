@@ -1,5 +1,5 @@
 #SET_NAME Andr
-You again?::Can't get enough yesterday?
+Du schon wieder?::Hast du gestern nicht genug bekommen?
 #ATTACK 1
 #INCREASE_LOVE 1
 #END

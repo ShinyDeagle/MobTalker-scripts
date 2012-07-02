@@ -1,33 +1,33 @@
 #FETCH_NAME
 #SET_NAME (playername)
-Go ahead.::Make my day.::I even brought your pal, kitty, to cheer you up.
+Leg los.::Mach was lustiges.::Ich habe sogar deinen Freund, das Kätzchen, mitgebracht, um dich aufzuheitern.
 #SET_NAME Cupa
-Uh..uh..
-OKay, okay, you don't need to release the kraken...I surrender....
-(Soon, I will have my revenge....)
+O..Oh..
+OKay, okay, du musst den Kraken nicht loslassen... ich gebe auf...
+(Ich werde schon früh genug rache nehmen...)
 #SET_NAME (playername)
-Come on!::Don't you want some comeback?
+Komm schon!::Willst du kein Comeback?
 #SET_NAME Cupa
-I was kidding!Why so serius.
-Or you just can't afford a joke?
+War nur Spaß! Warum so ernst?
+Oder kannst du einfach keinen Witz vertragen?
 #SET_NAME (playername)
-Of course no problem.I'm generous.
-BTW,who you are?
+Natürlich, kein Problem. Ich bin großzügig.
+Apropos, wer bist du eigentlich?
 #SET_NAME Cupa
-Who am I?::Are you blind?::I'm a creeper!
+Wer ich bin?::Bist du blind?::Ich bin ein Creeper!
 #SET_NAME (playername)
-A proper name, not a species.
+Dein Name, nicht deine Spezies.
 #SET_NAME Cupa
-Erh..nope.
+Ähh..Nö.
 #SET_NAME (playername)
-Do you know my cows are better liar than you?
+Meine Kühe sind bessere Lügner als du.
 #SET_NAME Cupa
-Get stuffed! No means NO!
+Hau ab! Nein heißt NEIN!
 #SET_NAME (playername)
-Oh,would you look at that, kitty's coming.
+Oh, sieh nur, dein Freund, das Kätzchen, kommt.
 #SET_NAME Cupa
-Eh...erh....ARRHHH!!!!
-I don't know your name too!!!
+Ähh...Ähm....ARRHHH!!!!
+Ich kenn deinen Namen doch auch nicht!!!
 #INCREASE_LOVE 2
 #FINISH_DAY
 #END

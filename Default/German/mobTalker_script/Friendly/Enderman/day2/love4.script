@@ -1,24 +1,24 @@
 #SET_NAME (playername)
-Ok, sorry for sartling you yesterday.
+Ok, tut mir leid, dass ich dich gestern so erschreckt hab.
 #SET_NAME Andr
-Really?
+Wirklich?
 #SET_NAME (playername)
-Yeah...Erh....::born with a scary face, couldn't help it.
+Ja...Ähm....::bin mit nem gruseligen Gesich geboren worden, ich kann nichts dafür.
 #SET_NAME Andr
-Yeah...I am not people person either.::Huh, guess it make us the same kind.
+Ok...ich bin auch nicht so die gesellschaftliche Person.::Hm, ich glaube damit haben wir was gemeinsam.
 #SET_NAME Andr
-The air is refreshing, isn't it?
+Die Luft ist frisch, nicht?
 #SET_NAME (playername)
-So that's why you wander arround?
+Also warum wanderst du hier so herum?
 #SET_NAME Andr
-I'm not wandering!::I am fininding something.::
-But I can't remember what it is.
+Ich wandere nicht!::Ich suche etwas.::
+Aber ich kann mich nicht erinnern, was es ist.
 #SET_NAME (playername)
-How you find somthinf::if you don't even know what it is?
+Wie willst du etwas finden,::wenn du nicht weißt, was es ist?
 #SET_NAME Andr
-Maybe.....um... I'll recongize it on first sight.
+Vielleicht.....ähm... erkenne ich's, wenn ich's finde.
 #SET_NAME (playername)
-Yeah, good luck for that.
+Yeah, viel Glück dabei.
 #INCREASE_LOVE 4
 #FINISH_DAY
 #END

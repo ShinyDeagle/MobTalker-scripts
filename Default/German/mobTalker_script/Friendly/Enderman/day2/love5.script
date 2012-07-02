@@ -1,28 +1,28 @@
 #FETCH_NAME
 #SET_NAME Andr
-Oh.The adventurer.::Good to see you again.
+Oh.Der Abenteurer.::Schön dich wiederzusehen.
 #SET_NAME (playername)
-Evening.::Having a walk?
+'n Abend.::Hast du n schönen Spaziergang?
 #SET_NAME Andr
-Yeah.::Night is good, quiet and refreshing.
+Ja.::Die Nacht ist schön, ruhig und erfrischend.
 #SET_NAME (playername)
-So that's why you are wandering at night?
+Also das ist der Grund, warum du hier bei Nacht rumwanderst?
 #SET_NAME Andr
-In fact there is another reason.::I've dropped something,::But I cant remember what it is.
+Eigentlich gibt es dafür nen andern Grund.::Ich hab was verloren,::aber ich kann mich nicht erinnern, was es war.
 #SET_NAME (playername)
-So how do you know if you found it?
+Und wie willst du wissen, ob du's gefunden hast?
 #SET_NAME Andr
-Maybe I'll know in first sight.
+Vielleicht erkenne ich's, wenn ich's finde.
 #SET_NAME (playername)
-Two is better than one. Need some help?
+Zwei sind besser als einer. Brauchst du Hilfe?
 #SET_NAME Andr
-Oh,thanks,(playername).::But I can't really tell you what it is.
+Oh, danke,(playername).::Aber ich kann dir nicht wirklich sagen, was es ist.
 #SET_NAME (playername)
-That's ok.::we will trial and error.
+Das ist ok.::Wir versuchen's einfach, bis wir's finden.
 #SET_NAME Andr
-Really?::Thanks for your help. With you.....
+Wirklich?::Danke für die Hilfe. Mit dir.....
 #SET_NAME Andr
-May be the lonesome road isn't that bad after all.
+Ach, vielleicht ist der einsame Weg doch nicht so schlecht.
 #INCREASE_LOVE 5
 #FINISH_DAY
 #END

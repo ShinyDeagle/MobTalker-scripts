@@ -1,4 +1,4 @@
 #SET_NAME Andr
-(sob)Do...don't look at me.
-#CONDITION{[You got a pretty face, why covering it with tears ,Option4A],[Whoa, What you crying for?, Option4B],[I want to eh... borrow your Ender Pearl. ,Option4C]}
+(heul)Gu...Guck mich nicht an.
+#CONDITION{[Du hast ein so schönes Gesicht, warum es mit Tränen beflecken?,Option4A],[Whoa, Warum heulst du?, Option4B],[Ich will mir ähm... deine Enderperle ausleihen. ,Option4C]}
 #END
