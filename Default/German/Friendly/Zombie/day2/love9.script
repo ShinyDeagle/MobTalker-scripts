@@ -1,0 +1,19 @@
+#SET_NAME Yaebi
+Humph. A mature grownup like me won't lost her temper.
+So..What brings you here?
+#SET_NAME (playername)
+Nothing.I just fooling around.
+#SET_NAME Yaebi
+Wh-What?::Are you that bored, or you have too much youth to waste?
+#SET_NAME (playername)
+.........(fake sob)
+#SET_NAME Yaebi
+Oh...oohhhh....sorry...
+Ok,ok,eh...
+Let me..be your friend?
+#SET_NAME (playername)
+um...Okay.
+(I lied.)
+#DECREASE_LOVE 1
+#FINISH_DAY
+#END

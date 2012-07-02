@@ -1,0 +1,4 @@
+#SET_NAME Cupa
+K-Katze!!! N... NIMM SIE WEG VON MIR!!!!!
+#CONDITION{[Sie ist direkt neben dir!,Option1A],[Welche Katze? ,Option1B],[Du meinst die hier?,Option1C]}
+#END

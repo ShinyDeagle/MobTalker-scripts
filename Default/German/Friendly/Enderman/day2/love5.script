@@ -1,0 +1,28 @@
+#FETCH_NAME
+#SET_NAME Andr
+Oh.The adventurer.::Good to see you again.
+#SET_NAME (playername)
+Evening.::Having a walk?
+#SET_NAME Andr
+Yeah.::Night is good, quiet and refreshing.
+#SET_NAME (playername)
+So that's why you are wandering at night?
+#SET_NAME Andr
+In fact there is another reason.::I've dropped something,::But I cant remember what it is.
+#SET_NAME (playername)
+So how do you know if you found it?
+#SET_NAME Andr
+Maybe I'll know in first sight.
+#SET_NAME (playername)
+Two is better than one. Need some help?
+#SET_NAME Andr
+Oh,thanks,(playername).::But I can't really tell you what it is.
+#SET_NAME (playername)
+That's ok.::we will trial and error.
+#SET_NAME Andr
+Really?::Thanks for your help. With you.....
+#SET_NAME Andr
+May be the lonesome road isn't that bad after all.
+#INCREASE_LOVE 5
+#FINISH_DAY
+#END

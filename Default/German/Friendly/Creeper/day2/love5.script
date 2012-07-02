@@ -1,0 +1,23 @@
+#FETCH_NAME
+#SET_NAME Cupa
+Morning!::Good dream last night? If you know what I mean.::I've been doing some patrol last night.
+#SET_NAME Cupa
+Hey...This...this is awkward...::Are you singl::No, are you a confirmed bachelo::Damn it, eh, do you live by youself?
+#SET_NAME (playername)
+Yeah, so?
+#SET_NAME Cupa
+Um...
+No,I mean..the house is comfy.::And I thought there are others.
+#SET_NAME (playername)
+Yeah, surplus of resource plus too much youth to waste.
+#SET_NAME Cupa
+So..... You won't move in a near future, will you?
+#SET_NAME (playername)
+Yeah, got an arrow at my knee, doesn't plan for any expedition.
+#SET_NAME Cupa
+Hehehe..
+#SET_NAME (playername)
+(I got a bad feeling about this....)
+#INCREASE_LOVE 5
+#FINISH_DAY
+#END

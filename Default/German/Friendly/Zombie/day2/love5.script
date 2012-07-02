@@ -1,0 +1,29 @@
+#FETCH_NAME
+#SET_NAME (playername)
+Nice to meet you!I'm (playername)。
+#SET_NAME Yaebi
+Wait what? Why you start introducing yourself?
+#SET_NAME (playername)
+What's your name?
+#SET_NAME Yaebi
+Me?eh..Yaebi.
+#SET_NAME (playername)
+I want to know more about you.
+#SET_NAME Yaebi
+Hold it right there, pervert.Stop!
+It's disgusting!::Cut that tone.
+#SET_NAME (playername)
+OKay....It's exhausing to talk like a pimp.
+#SET_NAME Yaebi
+Where did you learn about "pimp" anyway?
+#SET_NAME (playername)
+But..But they said everybody loves a sauvy man, like that Robert Downey guy.
+#SET_NAME Yaebi
+Just be yourself, natural, anything but a pimp.
+#SET_NAME (playername)
+Like an iron golem?
+#SET_NAME Yaebi
+NO, PLEASE, NO.
+#INCREASE_LOVE 5
+#FINISH_DAY
+#END
