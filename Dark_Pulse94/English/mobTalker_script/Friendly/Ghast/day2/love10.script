@@ -1,0 +1,10 @@
+#FETCH_NAME
+#SET_NAME Blazette
+#FACE Happy
+I just had the most wicked idea.
+#SET_NAME (playername)
+Huh?
+#SET_NAME Blazette
+I... I like you quite a bit.::And I... I want to take our relationship up a notch.::What do you think?
+#CONDITION{[Anything you want (NSFW option),Option5A],[I think we're in a good place,Option5B]}
+#END

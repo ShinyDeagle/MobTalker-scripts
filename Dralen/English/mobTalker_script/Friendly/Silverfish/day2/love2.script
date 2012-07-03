@@ -1,0 +1,14 @@
+#SET_NAME Silverfish
+Ah, the stranger again. Come to say hello again?
+#SET_NAME (playername)
+I suppose, if that's what you want me to do.
+#SET_NAME Silverfish
+#FACE Sad
+Don't you have anything you want to talk about?
+#SET_NAME (playername)
+Not really, sorry to disappoint you, I'm not really all that talkative.
+#SET_NAME Silverfish
+It's alright I suppose, but if you don't mind,::there's something that I need to take care of.
+#INCREASE_LOVE 4
+#FINISH_DAY
+#END

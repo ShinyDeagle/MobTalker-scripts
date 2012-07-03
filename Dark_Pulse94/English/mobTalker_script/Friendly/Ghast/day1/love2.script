@@ -1,0 +1,16 @@
+#SET_NAME Ghast
+#FACE Angry
+Did you take anything? Show me what you have.
+#FETCH_NAME
+#SET_NAME (playername)
+Ok, ok! Just don't spit another fireball at me!
+#SET_NAME Ghast
+#FACE Happy
+Haha! Don't you like my Fireballs?
+#SET_NAME (playername)
+I just like to keep my clothes intact
+#SET_NAME Ghast
+#FACE Normal
+Ok then, I'll keep that in mind...
+#INCREASE_LOVE 1
+#END

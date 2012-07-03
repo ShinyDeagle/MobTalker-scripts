@@ -1,0 +1,20 @@
+#FETCH_NAME
+#SET_NAME Silverfish
+#FACE Normal
+Thanks, I'm really charming aren't I?
+#SET_NAME (playername)
+Indeed, that is truly the case.
+#SET_NAME Silverfish
+I like you, what's your name anyway?
+#SET_NAME (playername)
+You can call me (playername), everyone else does.
+#SET_NAME Shara
+Alright then (playername), my name is Shara.::I'll see you around then shall I?
+#SET_NAME (playername)
+Of course my Little Silver Princess.
+#SET_NAME Shara
+#FACE Happy
+Haha! You really are true gentleman (playername).
+#INCREASE_LOVE 3
+#FINISH_DAY
+#END

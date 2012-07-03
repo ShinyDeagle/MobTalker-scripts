@@ -1,0 +1,21 @@
+#FETCH_NAME
+#SET_NAME Silverfish
+You're here again?
+#SET_NAME (playername)
+I think it's good to be able to talk to someone else.
+#SET_NAME Silverfish
+#FACE Sad
+Well I suppose that's true, don't you have anyone to talk::to somewhere else though?
+#SET_NAME (playername)
+Nope, sorry. Oh by the way, I realize that I haven't::introduced myself yet.I'm (playername), and you are?
+#SET_NAME Shara
+#FACE Normal
+People call me Shara.
+#SET_NAME (playername)
+Well then Shara, I'm off, perhaps I'll see you around?
+#SET_NAME Shara
+#FACE Shy
+Yes, I suppose you probably will...
+#INCREASE_LOVE 3
+#FINISH_DAY
+#END

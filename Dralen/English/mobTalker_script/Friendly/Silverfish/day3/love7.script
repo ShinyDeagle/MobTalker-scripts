@@ -1,0 +1,31 @@
+#FETCH_NAME
+#SET_NAME (playername)
+#FACE Sad
+Hey Shara, ready to train some more?
+#SET_NAME Shara
+Hmmm? oh uh...yeah can't wait.
+#SET_NAME (playername)
+Is something wrong? You seem distracted by something.
+#SET_NAME Shara
+I don't know, for some reason my friends haven't been::talking to me in the last couple of days.::But I'm not sure why.
+#SET_NAME (playername)
+Didn't we start training two days ago? Maybe now that you::actually are learning martial arts they can actually feel you're::tougher now that you were before.
+#SET_NAME Shara
+You think so?
+#SET_NAME (playername)
+It could be the case, I mean, you're sure that your friends::beleived you when you said you knew martial arts?
+#SET_NAME Shara
+Well I thought they did, but...maybe...
+#SET_NAME (playername)
+Maybe they just thought you were a good person?
+#SET_NAME Shara
+#FACE Normal
+Yeah exactly. You know what? let's skip training today, I::want to talk to them and get some answers.
+#SET_NAME (playername)
+Ok, if that's what you want to do, it's better to sort these::kinds of things out now before they become a problem.
+#SET_NAME Shara
+#FACE Shy
+Alright then, see you tomorrow.
+#INCREASE_LOVE 3
+#FINISH_DAY
+#END

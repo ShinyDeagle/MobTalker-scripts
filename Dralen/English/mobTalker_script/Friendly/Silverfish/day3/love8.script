@@ -1,0 +1,23 @@
+#FETCH_NAME
+#SET_NAME Shara
+#FACE Shy
+Hello (playername), how are you today?
+#SET_NAME (playername)
+I'm well, thanks for asking. Hmm? What's that you have::behind your back?
+#SET_NAME Shara
+It's something I made for you, here.
+#SET_NAME (playername)
+(Shara gave me what looks like a crown of flowers,::it looks very well made and there are many different::flowers woven into it.)
+Amazing, it's really beautiful.::I only wish I had something to give you in return.
+#SET_NAME Shara
+Well...there is something that you could give me.
+#SET_NAME (playername)
+Of course, I'd give you anything right now.
+#SET_NAME Shara
+Would you...well, be my prince?
+#FACE Happy
+Of course, I could only truly recognise you as my prince::if you gave me a kiss.
+#FACE Angry
+And I mean a proper kiss, not like one on the cheek.::It has to be lips and all.
+#CONDITION{[Of course! I said anything didn't I?,Option8A],[What do you mean? That's ridiculous!,Option8B]}
+#END

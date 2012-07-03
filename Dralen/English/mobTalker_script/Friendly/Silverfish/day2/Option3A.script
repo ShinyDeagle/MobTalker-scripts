@@ -1,0 +1,18 @@
+#SET_NAME (playername)
+Since, if you can't understand the basic principles behind a technique,::it isn't as effective unless you've practiced the basics.
+#SET_NAME Shara
+#FACE Sad
+Oh...well ok, that makes sense I suppose.
+#SET_NAME (playername)
+Sorry to dissapoint you, but it even took me a couple of years to get::to the point I'm at now.
+#SET_NAME Shara
+#FACE Normal
+I understand, noone is a master overnight in anything.::These sorts of things take time.
+#SET_NAME (playername)
+At least you have more sense than some of the people I learned with.::Alright, lets get started then.
+#SET_NAME Shara
+#FACE Shy
+(playername). Thanks again.
+#INCREASE_LOVE 4
+#FINISH_DAY
+#END

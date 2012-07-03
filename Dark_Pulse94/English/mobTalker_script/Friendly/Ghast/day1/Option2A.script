@@ -1,0 +1,12 @@
+#SET_NAME Ghast
+#FACE Tired
+Oh ok... I'm sorry.
+#FETCH_NAME
+#SET_NAME (playername)
+It's ok, just please don't do it again
+#SET_NAME Charloette
+#FACE Normal
+I'm Charloette, in case you're asking.
+#INCREASE_LOVE 1
+#FINISH_DAY
+#END

@@ -1,0 +1,20 @@
+#FETCH_NAME
+#SET_NAME Silverfish
+#FACE Tired 
+Well...no...but don't go telling anyone!::Everyone respects me because they think I do.
+#FACE Angry
+Great, now I've lost my confidence,::I won't be able to boast without feeling::uneasy that someone else might ask me.
+#SET_NAME (playername)
+Well, would you like to learn some martial arts then?
+#SET_NAME Silverfish
+#FACE Sad
+You know martial arts? You don't look like that::kind of person to me.
+#SET_NAME (playername)
+I do, trust me. I wasn't allowed to begin my::adventures without first learning some basic defence.::My name is (playername) by the way.
+#SET_NAME Shara
+I'm Shara, thanks for offering to teach me some::martial arts.
+#SET_NAME (playername)
+No problem, I'm happy to help anyway I can.
+#INCREASE_LOVE 2
+#FINISH_DAY
+#END

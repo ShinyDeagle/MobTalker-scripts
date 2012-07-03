@@ -1,0 +1,8 @@
+#SET_NAME Silverfish
+#FACE Happy
+Ok then, hello to you too~.
+#FACE Shy
+Now could you please leave me alone? You're making me nervous...
+#INCREASE_LOVE 1
+#FINISH_DAY
+#END

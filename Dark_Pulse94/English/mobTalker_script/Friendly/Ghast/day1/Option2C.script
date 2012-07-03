@@ -1,0 +1,8 @@
+#SET_NAME Ghast
+#FACE Tired
+A little up front, eh?
+#FACE Angry
+Let's see how cute you think I am with a fireball to the knee!
+#ATTACK 1
+#DECREASE_LOVE 2
+#END

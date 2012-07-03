@@ -1,0 +1,11 @@
+#SET_NAME Ghast
+#FACE Happy
+Back for another fireball?
+#FETCH_NAME
+#SET_NAME (playername)
+No, please!
+#SET_NAME Ghast
+#FACE Happy
+Gotchya again!
+#CONDITION{[Can we cut the fireballs please? I don't like it!,Option2A],[You're so funny! I never caught your name...,Option2B],[You know - you're kind of cute when you laugh,Option2C]}
+#END

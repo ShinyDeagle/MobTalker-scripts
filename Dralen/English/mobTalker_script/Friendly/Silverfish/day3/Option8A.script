@@ -1,0 +1,12 @@
+#FACE Shy
+#SET_NAME Shara
+#FACE Shy
+Really? Well...ok, here it goes.
+#SET_NAME (playername)
+(As Shara's lips touch mine, I can feel her embracing me::tightly. Her tongue reaching out to mine as they stir::together like two eels)
+(After what seems like an enternity, Shara slowly pulls::herself away from me, all the while with an expression of::longing for more on her face.)
+(I can tell that she had wanted this since the moment we::first met.)
+(I realize now, that I too had wished for that moment of::holding the one you hold dear in a loving embrace,::for that moment of sheer bliss.)
+#INCREASE_LOVE 10
+#FINISH_DAY
+#END

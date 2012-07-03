@@ -1,0 +1,22 @@
+#FETCH_NAME
+#SET_NAME Shara
+Oh, good morning again (playername). Did you sleep well?
+#SET_NAME (playername)
+Yes I did thank you. And you my Little Silver Princess?
+#SET_NAME Shara
+#FACE Happy
+*Giggle* I slept just fine, my good sir (playername).
+#SET_NAME (playername)
+'good sir'? Where did that come from?
+#SET_NAME Shara
+Well if I'm your 'Little Silver Princess', then you are a Lord of my court.
+#SET_NAME (playername)
+Ah, I see. Well then, my Little Silver Princess,::what would like to do today?
+#SET_NAME Shara
+#FACE Shy
+Well...right now. Would you...hold my hand?
+#SET_NAME (playername)
+As you wish my Princess. Shall we take a walk as well?
+#INCREASE_LOVE 4
+#FINISH_DAY
+#END

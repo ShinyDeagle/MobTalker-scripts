@@ -1,0 +1,19 @@
+#FACE Sad
+#SET_NAME Shara
+#FACE Sad
+But...I thought you said you would give me anything...
+#SET_NAME (playername)
+I'm sorry, but...there are limits to how far my gratitude will go.
+#SET_NAME Shara
+I understand...
+...
+Can I have that back?
+#SET_NAME (playername)
+Sure.
+(As I handed back the crown of flowers to Shara, a look::of utter defeat on her face, I could tell, with full::certainty that this was the last time I would see her.)
+(If only I had not been so selfish in rejecting her, perhaps we::could have been friends maybe even lovers)
+(Now though, I will have to live with only the memory of her,::and the dreams of what our relationship could have been.)
+#DECREASE_LOVE 5
+#FINISH_DAY
+#SELF_DEAD
+#END

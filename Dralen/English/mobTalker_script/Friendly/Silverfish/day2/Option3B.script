@@ -1,0 +1,17 @@
+#SET_NAME (playername)
+But there aren't really any techniques that can take someone::down 100% of the time. Please remember that martial arts are::meant for self-defense, not aggression.
+#SET_NAME Shara
+#FACE Tired
+Really? I hadn't realised that.
+#SET_NAME (playername)
+Well, I mean, you COULD use it aggressively, but a lot of::it tends to be reacting to an attack rather::than actually attacking yourself.
+#SET_NAME Shara
+#FACE Normal
+Well thats good, I'm already learning more about martial arts::than I always made out to have done.
+#SET_NAME (playername)
+That's good to know, Something new everyday and all that.::Anyway lets get started.
+#SET_NAME Shara
+Alright! I'm getting excited already.
+#INCREASE_LOVE 4
+#FINISH_DAY
+#END

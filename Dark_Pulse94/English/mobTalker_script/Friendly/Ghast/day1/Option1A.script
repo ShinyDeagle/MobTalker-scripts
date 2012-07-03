@@ -1,0 +1,8 @@
+#SET_NAME Ghast
+#FACE Normal
+Are you lying? You had better not...
+#FETCH_NAME
+#SET_NAME (playername)
+Don't you worry, I'm not here to do harm!
+#INCREASE_LOVE 4
+#END

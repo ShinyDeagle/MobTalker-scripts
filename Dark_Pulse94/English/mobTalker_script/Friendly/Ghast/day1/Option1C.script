@@ -1,0 +1,6 @@
+#SET_NAME Angry Ghast
+#FACE Angry
+That's it!::As queen of the Nether, I demand you leave my Kingdom!
+#ATTACK 5
+#DECREASE_LOVE 2
+#END

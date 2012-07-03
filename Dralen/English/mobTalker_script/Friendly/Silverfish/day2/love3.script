@@ -1,0 +1,11 @@
+#FETCH_NAME
+#SET_NAME Shara
+Hello (playername), are you going to start teaching me martial::arts now then.
+#SET_NAME (playername)
+Sure, just let me know when you're ready.
+#SET_NAME Shara
+Do you think you could teach me some super powerful technique?::One that I could use to take down any opponent without fail?
+#SET_NAME (playername)
+Well...
+#CONDITION{[It's better to start at the basics...,Option3A],[I suppose I could try...,Option3B]}
+#END

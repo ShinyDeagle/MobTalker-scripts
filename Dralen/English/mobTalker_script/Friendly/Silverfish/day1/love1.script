@@ -1,0 +1,5 @@
+#SET_NAME Silverfish
+#FACE Angry
+Why are you bothering me? What do you want?
+#CONDITION{[Just wanted to say Hi is all,Option1A],[You're very cute, I could stare all day,Option1B],[Do you really know martial arts?,Option1C]}
+#END
