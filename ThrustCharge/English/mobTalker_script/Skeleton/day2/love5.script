@@ -1,0 +1,7 @@
+#SET_NAME Ayumi
+#FACE Shy
+Oh... Um... While you're here...
+Can you help me with something?
+Only if you want to that is...
+#CONDITION{[Of course. What do you need? ,Option5A],[Um why? ,Option5B],[No... Why would I help you? ,Option5C]}
+#END

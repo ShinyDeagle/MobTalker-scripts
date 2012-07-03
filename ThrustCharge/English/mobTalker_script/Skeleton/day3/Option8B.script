@@ -1,0 +1,12 @@
+#FETCH_NAME
+#FACE Sad
+#SET_NAME Ayumi
+Oh that's a shame. I'd have liked to visit it.
+Do you think you could show me it some other time then?
+#SET_NAME (playername)
+If you want me to.
+#SET_NAME Ayumi
+#FACE Happy
+Oh wow, thank you (playername)!
+#INCREASE_LOVE 1
+#END

@@ -1,0 +1,17 @@
+#SET_NAME Ari
+#FACE Normal
+Heh. You seem pretty cool. Want to do something?
+#FACE Happy
+Oh, I have an idea! Wanna battle me?::I'm a pretty good fighter!
+#FETCH_NAME
+#SET_NAME (playername)
+No thanks.::I wouldn't want to beat up a little girl.
+#SET_NAME Ari
+#FACE Shy
+Beat up a... a little girl?
+. . .
+#FACE Happy
+Hahaha, I get it! You're a chicken!
+Buck buck buck! Hahaha!
+#INCREASE_LOVE 1
+#END

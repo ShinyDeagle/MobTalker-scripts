@@ -1,0 +1,11 @@
+#FETCH_NAME
+#SET_NAME Ari
+#FACE Shy
+<She is still blushing, her cheeks red as ever>
+#SET_NAME (playername)
+Look, I'm sorry that I upset you. 
+#SET_NAME Ari
+. . .
+It's... it's fine.
+#SET_NAME (playername)
+Ari... Why won't you admit that you were scared?

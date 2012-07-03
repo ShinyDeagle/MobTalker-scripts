@@ -1,0 +1,7 @@
+#SET_NAME Skeleton
+#FACE Normal
+Um... Don't worry. I won't attack you.::My friends on the other hand...
+#FACE Happy
+Maybe you should talk to them too!
+#INCREASE_LOVE 1
+#END

@@ -1,0 +1,19 @@
+#FETCH_NAME
+#SET_NAME (playername)
+Good morning, Ari.
+#SET_NAME Ari
+#FACE Happy
+Ah! (playername)! Hello!
+#SET_NAME (playername)
+Did you sleep well?
+#SET_NAME Ari
+Yeah... kinda. That whole... spider thing...
+#FACE Sad
+It did give me a few nightmares...
+#SET_NAME (playername)
+Oh. I'm sorry about that.
+#SET_NAME Ari
+#FACE Shy
+Wait! I mean, I didn't have any nightmares!::You made that up! <She blushes, her face going very red>
+#INCREASE_LOVE 1
+#END

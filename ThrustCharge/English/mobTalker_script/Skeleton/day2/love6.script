@@ -1,0 +1,14 @@
+#SET_NAME Ayumi
+#FACE Shy
+Oh, you're back!
+Did you get me some arrows?
+#FETCH_NAME
+#SET_NAME (playername)
+Yep, here you go!
+<You give her five arrows>
+#SET_NAME Ayumi
+#FACE Happy
+Thanks you so much (playername)
+Now that I've got these, I can help you if you want!
+#CONDITION{[Sure! It'll be nice having company! ,Option6A],[No thanks. I can defend myself. ,Option6B]}
+#END

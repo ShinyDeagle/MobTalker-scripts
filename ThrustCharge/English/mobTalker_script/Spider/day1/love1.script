@@ -1,0 +1,15 @@
+#SET_NAME Spider
+#FACE Happy
+Can't stand not talking to me huh? Haha!
+#FACE Normal
+What's your name, pal?
+#FETCH_NAME
+#SET_NAME (playername)
+The name's (playername).
+#SET_NAME Spider
+That's a pretty cool name!
+#FACE Happy
+#SET_NAME Ari
+My name is Ari, you'd better remember it buster!::<She punches your arm playfully>
+#INCREASE_LOVE 1
+#END

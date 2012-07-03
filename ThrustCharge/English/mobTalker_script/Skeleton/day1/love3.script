@@ -1,0 +1,14 @@
+#SET_NAME Skeleton
+#FACE Shy
+It... It's been nice t-talking to you.
+Wh... Can I get your name?
+#FETCH_NAME
+#SET_NAME (playername)
+My name is (playername).
+#SET_NAME Ayumi
+#FACE Happy
+Oh... What a lovely name!
+I'm Ayumi... Please remember it!
+#INCREASE_LOVE 1
+#FINISH_DAY
+#END

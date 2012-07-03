@@ -1,0 +1,6 @@
+#SET_NAME Ari
+#FETCH_NAME
+#FACE Happy
+Good morning, (playername)!::Did ya sleep well?
+#INCREASE_LOVE 1
+#END

@@ -1,0 +1,16 @@
+#SET_NAME Ayumi
+#FACE Normal
+R-really? Are you sure?
+#FETCH_NAME
+#SET_NAME (playername)
+Yep. He only attacks those who attack me.::He won't attack you, so don't worry.
+#SET_NAME Ayumi
+Phew... That's good then. So I can visit you?
+#SET_NAME (playername)
+Of course.
+#SET_NAME Ayumi
+Yay! Thank you, (playername)!
+#INCREASE_LOVE 1
+#FINISH_DAY
+#END
+

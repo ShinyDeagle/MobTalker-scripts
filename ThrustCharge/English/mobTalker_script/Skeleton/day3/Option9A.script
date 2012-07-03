@@ -1,0 +1,10 @@
+#SET_NAME Ayumi
+#FACE Sad
+A-A-A DOG?!?!? 
+You know those things are scary, right?::They eat our bones, they don't even care!
+Those sharp fangs, the creepy eyes and blood red collar...::<shudder>
+#FETCH_NAME
+#SET_NAME (playername)
+#CONDITION{[Don't worry. It won't hurt you. ,Option10A],[Haha! I'm sure he wants some more food! ,Option10B]}
+#END
+

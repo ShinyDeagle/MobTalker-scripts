@@ -1,0 +1,21 @@
+#SET_NAME Ari
+#FACE Normal
+I'm a bit bored today.
+#FACE Happy
+You're a good sport, right? Want to play a game?
+#FETCH_NAME
+#SET_NAME (playername)
+That depends. What kind of game?
+#SET_NAME Ari
+How about... a race! I have to say, I love running!
+#SET_NAME (playername)
+I'm not really a runner. I'm more of a walker.
+#SET_NAME Ari
+#FACE Sad
+But a walking race is no fun...
+#FACE Happy
+You've gotta go fast! Haha!
+Oh well, you lame-o! Maybe another time then?::<She smiles, and gives your leg a light punt>
+#INCREASE_LOVE 1
+#END
+

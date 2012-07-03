@@ -1,0 +1,7 @@
+#SET_NAME Spider
+#FACE Normal
+Hmm?
+#FACE Happy
+Oh, it's you again! Hi!
+#INCREASE_LOVE 1
+#END

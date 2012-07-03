@@ -1,0 +1,7 @@
+#SET_NAME Ayumi
+#FACE Shy
+#FETCH_NAME
+Hello, (playername)!
+Did you sleep well last night?
+#INCREASE_LOVE 1
+#END

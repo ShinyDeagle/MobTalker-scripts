@@ -1,0 +1,8 @@
+#FETCH_NAME
+#SET_NAME Ayumi
+#FACE Normal
+Really? I'm surprised. Such a nice young man like you...
+#FACE Shy
+I-I mean- It's...um...
+#INCREASE_LOVE 1
+#END

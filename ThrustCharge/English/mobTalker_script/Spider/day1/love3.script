@@ -1,0 +1,35 @@
+#SET_NAME Ari
+#FACE Normal
+By the way, what's that silver thing you're holding?
+#FETCH_NAME 
+#SET_NAME (playername)
+Oh this? It's a Mob Talker.
+#FACE Shy
+#SET_NAME Ari
+. . .
+A what now?
+#SET_NAME (playername)
+A Mob Talker. This is what lets me talk to you.
+#SET_NAME Ari
+#FACE Happy
+Oh, I see, (playername)!::You couldn't get any girls to talk to you? 
+And then you noticed this incredibly cute one, and just::had to talk to her? Hahaha, how adorable!
+#SET_NAME (playername)
+I-I didn't make it for that reason!
+#SET_NAME Ari
+#FACE Sad
+So you made it for that purpose...
+. . . 
+#SET_NAME (playername)
+(Did she just ignore me?)
+#FACE Normal
+<She looks up at you, with an odd glint in her eyes>
+You're kinda weird, but smart too.
+#SET_NAME (playername)
+I suppose I'll take that as a compliment.
+#FACE Happy
+#SET_NAME Ari
+... But you're not as smart as me! Bwahaha!
+#INCREASE_LOVE 1
+#FINISH_DAY
+#END

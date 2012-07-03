@@ -1,0 +1,17 @@
+#FETCH_NAME
+#SET_NAME (playername)
+If you knew that, then why did you run away?
+#FACE Happy
+#SET_NAME Ari
+I was just messing with you. Someone like you, scaring me?
+Now that'd be silly! Hahaha!::<She pokes you in the ribs, all the while bearing a large::grin on her face>
+#SET_NAME (playername)
+I'm not sure if you were, Ari.::You seemed pretty frightened.
+#FACE Shy 
+#SET_NAME Ari
+I-I was not scared! It was all an act, why don't you::understand that?
+<She has gone fairly pale again>
+#FACE Happy
+Now stop picking on me, ya big bully!
+#INCREASE_LOVE 1
+#END

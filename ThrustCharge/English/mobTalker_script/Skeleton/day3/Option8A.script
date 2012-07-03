@@ -1,0 +1,11 @@
+#SET_NAME Ayumi
+#FACE Happy
+Really? That's pretty cool!::Is it a nice house?
+#FETCH_NAME
+#SET_NAME (playername)
+Yeah, I spent ages working on it!
+#SET_NAME Ayumi
+Wow, I'll have to come and visit you sometime!
+#INCREASE_LOVE 1
+#END
+

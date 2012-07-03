@@ -1,0 +1,18 @@
+#SET_NAME Ari
+#FACE Shy
+G-G-GO AWAY!
+#FETCH_NAME
+#SET_NAME (playername)
+Ari... I did say...
+#SET_NAME Ari
+Please! Don't hurt me!
+#SET_NAME (playername)
+You know I won't do that. I'm your friend.
+#SET_NAME Ari
+<She looks up at you, nervous tears in the corner of::her eyes>
+You... are?
+<She wipes away her tears, and bears a large smile>
+#FACE Normal
+Haha! See, I knew that! I was just messing with you!::And you fell for it! <She pokes her tongue out at you>
+#INCREASE_LOVE 1
+#END

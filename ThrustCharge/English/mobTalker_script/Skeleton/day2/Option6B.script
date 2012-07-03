@@ -1,0 +1,12 @@
+#FETCH_NAME
+#SET_NAME Ayumi
+#FACE Sad
+Oh... Okay then...
+Well, I guess I'll just leave you alone...
+Goodbye, (playername).
+#ATTACK 3
+#DECREASE_LOVE 3
+#SELF_DEAD
+#REV_TRANS
+#FINISH_DAY
+#END

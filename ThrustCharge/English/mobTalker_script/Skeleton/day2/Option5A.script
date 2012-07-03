@@ -1,0 +1,16 @@
+#SET_NAME Ayumi
+#FACE Happy
+You will? Thank you!
+I- I would like you to get me some arrows please.
+#FETCH_NAME
+#SET_NAME (playername)
+Sure, how many?
+#SET_NAME Ayumi
+Um... About five please?
+#SET_NAME (playername)
+Okay, I'll go and get you some.
+#SET_NAME Ayumi
+#FACE Shy
+Um... Thank you, (playername)!
+#INCREASE_LOVE 1
+#END

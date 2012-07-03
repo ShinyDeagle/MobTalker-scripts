@@ -1,0 +1,9 @@
+#SET_NAME Ayumi
+#FACE Angry
+But - But - I thought you were my friend?
+... FINE THEN, GO AWAY!
+#ATTACK 3
+#DECREASE_LOVE 3
+#SELF_DEAD
+#REV_TRANS
+#END

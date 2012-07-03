@@ -1,0 +1,6 @@
+#SET_NAME Ayumi
+#FACE Happy
+#FETCH_NAME
+Oh... hello again (playername)!
+#INCREASE_LOVE 1
+#END

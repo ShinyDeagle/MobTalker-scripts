@@ -1,0 +1,7 @@
+#SET_NAME Ayumi
+#FACE Shy
+#FETCH_NAME
+So (playername), whereabouts do you live? Is it near here?
+#SET_NAME (playername)
+#CONDITION{[Yep. I live not too far away. ,Option8A],[It's quite far away from here. ,Option8B]}
+#END

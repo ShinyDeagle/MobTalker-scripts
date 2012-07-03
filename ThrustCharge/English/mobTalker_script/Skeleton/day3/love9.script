@@ -1,0 +1,8 @@
+#SET_NAME Ayumi
+#FETCH_NAME
+#FACE Happy
+By the way, do you have anyone living with you at the moment?
+#SET_NAME (playername)
+#CONDITION{[Nope. I do have a dog though! ,Option9A],[Nope. It's only me living on my own. ,Option9B]}
+#INCREASE_LOVE 1
+#END

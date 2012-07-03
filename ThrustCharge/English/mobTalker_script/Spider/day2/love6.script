@@ -1,0 +1,28 @@
+#SET_NAME Ari
+#FACE Normal
+Well, is there anything else you want to do?
+Something you like doing?
+#FETCH_NAME
+#SET_NAME (playername)
+I don't think that's wise...
+#SET_NAME Ari
+#FACE Happy
+Why? Is it something gross? Haha!
+#SET_NAME (playername)
+No, But I-
+#SET_NAME Ari
+It is, isn't it? Hahaha!
+#SET_NAME (playername)
+I don't think mining, crafting, killing mobs, farming, encha-
+#SET_NAME Ari
+#FACE Shy
+Killing mobs? Like... SPIDERS?!?
+#SET_NAME (playername)
+Um... well, sometimes. I do sort of need string for bows.
+#SET_NAME Ari
+WHAAAAAAT?!?!?!
+K-K-K-Killing spiders? For our string? You're one sick,::sick dude!
+<She goes very quiet and pale, and takes a few slow::steps back>
+WAH! GET AWAY FROM ME!!!
+#INCREASE_LOVE 1
+#END
