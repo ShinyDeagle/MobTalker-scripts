@@ -1,0 +1,4 @@
+#SET_NAME Yaebi
+Okay...eu desisto oque voce quer?
+#CONDITION{[voce sta caminhando?,Option4A],[hora de pagar as dividas de sangue ,Option4B],[me de carne de zumbi!,Option4C]}
+#END

@@ -1,0 +1,24 @@
+#SET_NAME (playername)
+Ok, desculpa por ficar te chateando ontem
+#SET_NAME Andr
+serio?
+#SET_NAME (playername)
+Yeah...Erh....::ter nascido com uma cara medonha nao teria ajudado
+#SET_NAME Andr
+e..::eu acho que nos somos "do mesmo tipo"
+#SET_NAME Andr
+o ar e refrescante nao e?
+#SET_NAME (playername)
+entao por que voce fica andando por ai?
+#SET_NAME Andr
+eu nao estou "andando por ai", eu estou procurando por algo::mais nao me lembro oque e
+But I can't remember what it is.
+#SET_NAME (playername)
+como encontar algo sem saber o que e?
+#SET_NAME Andr
+Talvez...eu reconheça quando ver
+#SET_NAME (playername)
+e... boa sorte
+#INCREASE_LOVE 4
+#FINISH_DAY
+#END

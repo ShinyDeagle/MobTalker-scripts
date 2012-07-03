@@ -1,0 +1,9 @@
+#SET_NAME (playername)
+o carteiro tem que durmir de noite
+#SET_NAME Yaebi
+idiota
+#SET_NAME (playername)
+Problem?
+#ATTACK 1
+#INCREASE_LOVE 1
+#END

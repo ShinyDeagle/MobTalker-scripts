@@ -1,0 +1,15 @@
+#SET_NAME (playername)
+eu so quero ter uma pequena conversa hoje
+#SET_NAME Andr
+Serio?, fale
+#SET_NAME (playername)
+quanto tempo voce fica andando sozinha
+#SET_NAME Andr
+eu nao estou andando, eu so deichei cair algo importante
+#SET_NAME (playername)
+como se pode encontrar algo que nao se sabe o que e?
+#SET_NAME Andr
+talvez quando eu olhar eu reconheça
+#ATTACK 1
+#FINISH_DAY
+#END

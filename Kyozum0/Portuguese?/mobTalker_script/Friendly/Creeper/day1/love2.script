@@ -1,0 +1,16 @@
+#SET_NAME Cupa
+#FACE Happy
+Obrigada por salvar minha vida, eu nao faria isso sem voce
+#SET_NAME Cupa
+#FACE Normal
+eu me esqueci de me apresentar, meu nome e Cupa
+#SET_NAME Cupa
+e voce e?
+#FETCH_NAME
+#SET_NAME (playername)
+pode me chamar de (playername).
+#SET_NAME Cupa
+(playername)?Nome legal.
+#INCREASE_LOVE 3
+#FINISH_DAY
+#END

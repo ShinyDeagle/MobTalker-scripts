@@ -1,0 +1,28 @@
+#FETCH_NAME
+#SET_NAME Andr
+Ah, o aventureiro, bom te ver denovo
+#SET_NAME (playername)
+esta de tarde, passeando por ai?
+#SET_NAME Andr
+Sim, noite e boa, quieta e refrescante
+#SET_NAME (playername)
+por que voce esta andando esta noite?
+#SET_NAME Andr
+de fato por outra razao, algo que deixei cair, mais nao me lembro que foi
+#SET_NAME (playername)
+entao como voce sabe que voce nao pegou
+#SET_NAME Andr
+talvez.quando eu olhar
+#SET_NAME (playername)
+dois e melhor que um, pressisa de ajuda?
+#SET_NAME Andr
+Oh,obrigada,(playername).::mais nao posso lhe falar o que e
+#SET_NAME (playername)
+ok...
+#SET_NAME Andr
+Serio?
+#SET_NAME Andr
+talvez perder tempo andando nao seja tao ruim assim...
+#INCREASE_LOVE 5
+#FINISH_DAY
+#END

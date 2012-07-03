@@ -1,0 +1,4 @@
+#SET_NAME Andr
+chater as pessoas é o seu hobby?
+#CONDITION{[nao, eu nao vim para perolas de ender hoje.,Option1A],[Sim, Problem? ,Option1B]}
+#END

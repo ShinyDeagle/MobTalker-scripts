@@ -1,0 +1,9 @@
+#SET_NAME Andr
+#FACE Shy
+......
+#FACE Angry
+voce ao menos usa seu Cercebro?
+#ATTACK 1
+#DECREASE_LOVE 1
+#FINISH_DAY
+#END

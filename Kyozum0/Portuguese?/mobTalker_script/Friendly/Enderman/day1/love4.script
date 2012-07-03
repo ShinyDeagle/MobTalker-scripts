@@ -1,0 +1,4 @@
+#SET_NAME Andr
+Nao olhe para mim
+#CONDITION{[voce tem uma linda cara, porque cobrila com lagimas ,Option4A],[Whoa, por que voce esta chorando?, Option4B],[eu quero a sua perola de ender emprestada ,Option4C]}
+#END

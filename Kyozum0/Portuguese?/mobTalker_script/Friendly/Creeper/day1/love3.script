@@ -1,0 +1,19 @@
+#FETCH_NAME
+#SET_NAME (playername)
+Quanto medo de um gato...KKKKK...
+#SET_NAME Cupa
+#FACE Tired
+se voce tiver alguma ideia ruim, eu te encontro, no INFERNO!
+#SET_NAME (playername)
+Ok,ok, so um ogro gostaria de ficar com um gato
+#SET_NAME Cupa
+#FACE Angry
+Voce...Você fez isso de proposito!
+#SET_NAME (playername)
+Pff...algue ja falou que você tem cara de comediante?
+#SET_NAME Cupa
+Voce vai pagar por isso, eu te odeio!
+#ATTACK 1
+#INCREASE_LOVE 1
+#FINISH_DAY
+#END

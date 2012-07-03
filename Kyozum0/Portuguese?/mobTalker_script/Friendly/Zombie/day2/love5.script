@@ -1,0 +1,28 @@
+#FETCH_NAME
+#SET_NAME (playername)
+legal conheçer voçe, meu nome e (playername)。
+#SET_NAME Yaebi
+por que voce esta se apresentando
+#SET_NAME (playername)
+qual e seu nome?
+#SET_NAME Yaebi
+Yaebi.
+#SET_NAME (playername)
+eu quero saber mais de voçe
+#SET_NAME Yaebi
+pare agora mesmo, seu pevretido
+#SET_NAME (playername)
+Ok
+#SET_NAME Yaebi
+onde voce aprendeu isso tudo?
+#SET_NAME (playername)
+mais eles disceram que todos amavam um garoto jovem
+#SET_NAME Yaebi
+seja voce mesmo, nao prescisa desse pevertimento todo
+#SET_NAME (playername)
+como um irongolem?
+#SET_NAME Yaebi
+nao, por favor, nao
+#INCREASE_LOVE 5
+#FINISH_DAY
+#END

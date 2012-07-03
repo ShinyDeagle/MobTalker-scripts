@@ -1,0 +1,4 @@
+#SET_NAME Cupa
+GGGato!!! F-Fica longe de mim!!!!!
+#CONDITION{[esta perto de voce!,Option1A],[que gato? ,Option1B],[ele parece com um que eu capturei?,Option1C]}
+#END
