@@ -1,0 +1,9 @@
+#SET_NAME Spider
+#FACE Shy
+It's fun!
+#FACE Normal
+Here i show you
+#ATTACK 1
+#INCREASE_LOVE 1
+#FINISH_DAY
+#END

@@ -1,0 +1,32 @@
+﻿#FETCH_NAME
+#SET_NAME (playername)
+Nice to meet you! I'm (playername)。
+#SET_NAME Spider
+Why did you start introducing yourself?
+#SET_NAME (playername)
+Well, what's your name?
+#SET_NAME Sparrel
+I'm Sparrel
+#SET_NAME (playername)
+Do you want to hit me again?
+#SET_NAME Sparrel
+Nah, i'm good
+#SET_NAME (playername)
+Okay
+#SET_NAME Sparrel
+maybe sometime i hit you again
+#SET_NAME (playername)
+How about i ride you?
+#SET_NAME Sparrel
+Please, no
+#SET_NAME (playername)
+Well, can i get some string?
+#SET_NAME Sparrel
+No
+#SET_NAME (playername)
+Seriously?
+#SET_NAME Sparrel
+Maybe next time
+#INCREASE_LOVE 5
+#FINISH_DAY
+#END

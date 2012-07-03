@@ -1,0 +1,7 @@
+#SET_NAME (playername)
+there's a letter from your sister
+#SET_NAME Spider
+Oh it's you.
+#ATTACK 1
+#INCREASE_LOVE 5
+#END

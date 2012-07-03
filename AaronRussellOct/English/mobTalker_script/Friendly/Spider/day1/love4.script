@@ -1,0 +1,5 @@
+#SET_NAME Spider
+#FACE Angry
+Yep, i'm done. what do you want?
+#CONDITION{[I just want to ride you ,Option4A],[Why did you hit me ,Option4B],[I need some string,Option4C]}
+#END

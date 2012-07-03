@@ -1,0 +1,18 @@
+#FETCH_NAME
+#SET_NAME (playername)
+Trolling Again
+#SET_NAME Skellen
+#FACE Sad
+You again?
+#SET_NAME (playername)
+No, I'm your father
+#SET_NAME Skellen
+#FACE Shy
+I really hope you stop trolling me
+#SET_NAME (playername)
+Why? it's fun! 
+#SET_NAME Skellen
+I Hate you
+#ATTACK 1
+#INCREASE_LOVE 1
+#END

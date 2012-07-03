@@ -1,0 +1,10 @@
+#FETCH_NAME
+#SET_NAME Skellen
+#FACE Happy
+Anyway do you want something?
+#SET_NAME (playername)
+Hmm i don't know
+#SET_NAME Skellen
+Don't worry i give you anything
+#CONDITION{[Nothing,Option5A],[Your bone,Option5B]}
+#END

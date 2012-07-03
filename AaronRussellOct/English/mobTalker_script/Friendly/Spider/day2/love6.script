@@ -1,0 +1,7 @@
+#SET_NAME (playername) 
+Who's the idiot
+#SET_NAME Spider
+You
+#ATTACK 1
+#INCREASE_LOVE 1
+#END

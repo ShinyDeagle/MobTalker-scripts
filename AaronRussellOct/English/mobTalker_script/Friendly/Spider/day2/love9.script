@@ -1,0 +1,19 @@
+#SET_NAME Spider
+What are you doing here?
+#SET_NAME (playername)
+Nothing. I'm just walking
+#SET_NAME Spider
+You have no life
+#SET_NAME (playername)
+What? well what's your name
+#SET_NAME Spider
+My name?
+#SET_NAME (playername)
+Yes
+#SET_NAME Sparrel
+Sparrel.::How about you?
+#SET_NAME (playername)
+(playername)
+#DECREASE_LOVE 1
+#FINISH_DAY
+#END

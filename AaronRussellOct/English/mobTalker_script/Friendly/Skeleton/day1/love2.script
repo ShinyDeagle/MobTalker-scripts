@@ -1,0 +1,11 @@
+#SET_NAME (playername)
+Trolling. What's your name?
+#SET_NAME Skellen
+#FACE Normal
+Heh.. my name is Skellen
+#SET_NAME Skellen
+#FACE Shy
+Get out of my face or i Shot you
+#INCREASE_LOVE 1
+#FINISH_DAY
+#END

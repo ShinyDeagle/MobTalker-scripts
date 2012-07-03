@@ -1,0 +1,21 @@
+#FETCH_NAME
+#SET_NAME Skellen
+#FACE Angry
+You're going to trolling me again aren't you?
+#SET_NAME (playername)
+I'm just walking around
+#SET_NAME Skellen
+#FACE Normal
+Ha! nice try
+#SET_NAME (playername)
+Wow you're very smart
+#SET_NAME Skellen
+#FACE Happy
+You really think so?
+#SET_NAME (playername)
+Sure
+#SET_NAME Skellen
+#FACE Happy
+Thankyou
+#INCREASE_LOVE 1
+#END
