@@ -1,9 +1,9 @@
 #SET_NAME Yaebi
-you asked such thing to a person you just met.::
-You are either retard or an idiot!
+So etwas eine Person zu fragen, die du grad erst getroffen hast.::
+Bist du bescheuert oder einfach nur ein idiot!
 #SET_NAME (playername)
-.......Or both?
-(Aren't two the same thing?)
+.......Oder beides?
+(Ist das nicht beides das Gleiche?)
 #ATTACK 1
 #DECREASE_LOVE 2
 #FINISH_DAY

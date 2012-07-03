@@ -1,19 +1,19 @@
 #SET_NAME Yaebi
-Humph. A mature grownup like me won't lost her temper.
-So..What brings you here?
+Grmpf. Ein Erwachsener wie wird nicht seine Fassung verlieren.
+Also..Was bringt dich hierher?
 #SET_NAME (playername)
-Nothing.I just fooling around.
+Nichts. Ich albere nur herum.
 #SET_NAME Yaebi
-Wh-What?::Are you that bored, or you have too much youth to waste?
+W-Was?::Bist du so gelangweilt, oder nur zuviel Jugend zu verschwenden?
 #SET_NAME (playername)
-.........(fake sob)
+.........(falsches heulen)
 #SET_NAME Yaebi
-Oh...oohhhh....sorry...
-Ok,ok,eh...
-Let me..be your friend?
+Oh...oohhhh....tut mir leid...
+Ok,ok,äh...
+Kann ich..dein Freund sein?
 #SET_NAME (playername)
-um...Okay.
-(I lied.)
+ähm...Okay.
+(Das war gelogen.)
 #DECREASE_LOVE 1
 #FINISH_DAY
 #END

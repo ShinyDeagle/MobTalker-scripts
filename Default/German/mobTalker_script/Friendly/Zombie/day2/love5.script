@@ -10,20 +10,20 @@ Meiner?Äh..Yaebi.
 #SET_NAME (playername)
 Ich würde gern mehr über dich erfahren.
 #SET_NAME Yaebi
-Hold it right there, pervert.Stop!
-It's disgusting!::Cut that tone.
+Hör sofort auf, du Perverser. Stopp!
+Du wiederst mich an!::Und hör auf so zu reden.
 #SET_NAME (playername)
-OKay....It's exhausing to talk like a pimp.
+Ok....Es ist anstrengend, wie ein Zuhälter zu reden.
 #SET_NAME Yaebi
-Where did you learn about "pimp" anyway?
+Wie bist du überhaupt auf diese Zuhälter-Sache gekommen?
 #SET_NAME (playername)
-But..But they said everybody loves a sauvy man, like that Robert Downey guy.
+Aber..Aber heißt doch alle stehn auf coole Männer, wie dieser Robert Downey Typ.
 #SET_NAME Yaebi
-Just be yourself, natural, anything but a pimp.
+Sei einfach du selbst, natürlich, nur kein Zuhälter.
 #SET_NAME (playername)
-Like an iron golem?
+Natürlich? Wie ein Eisengolem?
 #SET_NAME Yaebi
-NO, PLEASE, NO.
+NEIN, BITTE, NEIN.
 #INCREASE_LOVE 5
 #FINISH_DAY
 #END
