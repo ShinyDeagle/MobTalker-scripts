@@ -3,14 +3,14 @@
 Du hast also Angst vor Katzen....Hehehe.....
 #SET_NAME Cupa
 #FACE Tired
-Wa.warte was?::Ich warne dich, we...wenn du auf irgendwelche niedlichen Ideen kommst, wer..werden sie dich wieder zusammen kleben müssen, IN DER HÖLLE!
+Wa.warte was?::Ich warne dich,:: we...wenn du auf irgendwelche niedlichen Ideen kommst,:: wer..werden sie dich wieder zusammen kleben müssen, IN DER HÖLLE!
 #SET_NAME (playername)
-Ok,ok, ist ja in Ordnung.::Ich hab nur plötzlich so ein Verlangen, diese Katze zu behalten.
+Ok,ok, ist ja in Ordnung.::Ich hab nur plötzlich so ein Verlangen,:: diese Katze zu behalten.
 #SET_NAME Cupa
 #FACE Angry
-Du...Du machst das doch mit Absicht..::Boah!Mach das weg!Idiot!
+Du...Du machst das doch mit Absicht..::Boah! Mach das weg! Idiot!
 #SET_NAME (playername)
-Pff...Hat dir schonmal wer gesagt, dass du ein Gesicht, wie n Komiker hast?
+Pff...Hat dir schonmal wer gesagt,:: dass du ein Gesicht, wie n Komiker hast?
 #SET_NAME Cupa
 Du..dafür wirst du bezahlen!::Ich hasse dich!
 #ATTACK 1

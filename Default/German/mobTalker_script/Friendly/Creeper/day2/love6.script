@@ -1,9 +1,9 @@
 #FETCH_NAME
 #SET_NAME (playername)
-Leg los.::Mach was lustiges.::Ich habe sogar deinen Freund, das Kätzchen, mitgebracht, um dich aufzuheitern.
+Leg los.::Mach was lustiges.::Ich habe sogar deinen Freund, das Kätzchen, mitgebracht,:: um dich aufzuheitern.
 #SET_NAME Cupa
 O..Oh..
-OKay, okay, du musst den Kraken nicht loslassen... ich gebe auf...
+OKay, okay, du musst den Kraken nicht loslassen...::ich gebe auf...
 (Ich werde schon früh genug rache nehmen...)
 #SET_NAME (playername)
 Komm schon!::Willst du kein Comeback?
