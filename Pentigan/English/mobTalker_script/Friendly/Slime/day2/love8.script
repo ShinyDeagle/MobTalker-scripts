@@ -1,9 +1,0 @@
-#SET_NAME (playername)
-Well, postmen need to sleep too.
-#SET_NAME Gelatinous Girl
-Darn it!:: Again!
-#SET_NAME (playername)
-Problem?
-#ATTACK 1
-#INCREASE_LOVE 1
-#END
