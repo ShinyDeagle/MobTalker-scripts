@@ -1,0 +1,13 @@
+#SET_NAME Blaze
+#FACE Angry
+Why do you persist?::There's nothing here for you.
+#SET_NAME Blazette
+#FACE Normal
+Fine, I'll introduce myself, then you can leave.
+I'm Blazette, yes I know it sounds like Blaze::My parents weren't exactly the more creative folks.
+#SET_NAME Blazette
+#FACE Shy
+Now get out of here before I torch your sorry behind.
+#INCREASE_LOVE 1
+#FINISH_DAY
+#END

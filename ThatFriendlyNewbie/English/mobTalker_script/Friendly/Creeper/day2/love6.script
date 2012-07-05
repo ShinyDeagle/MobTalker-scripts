@@ -1,0 +1,33 @@
+#FETCH_NAME
+#SET_NAME (playername)
+Go ahead, make my day!::I even brought your pal, kitty, to cheer you up.
+#SET_NAME Creeper
+Uh..uh..
+Okay, okay, you don't need to release the kraken...I surrender....
+#SET_NAME (playername)
+Come on!::Don't you want some comeback?
+#SET_NAME Creeper
+I was kidding! Why have you got to be so serious...
+Or maybe you just can't afford a joke?
+#SET_NAME (playername)
+I'm generous.
+By the way, who are you?
+#SET_NAME Creeper
+Who am I?::Are you blind?::I'm a creeper!
+#SET_NAME (playername)
+A proper name, not a species name.
+#SET_NAME Creeper
+Come on Cupa... Think...
+Erh..Don't have one?
+#SET_NAME (playername)
+Come on, my cows are better liars than you, Cupa.
+#SET_NAME Cupa
+*Pouts* Still doesn't mean I told you...
+#SET_NAME (playername)
+Oh,would you look at that, kitty's coming.
+#SET_NAME Cupa
+Eh...erh....ARRHHH!!!!
+I don't even know your name!!!
+#INCREASE_LOVE 2
+#FINISH_DAY
+#END

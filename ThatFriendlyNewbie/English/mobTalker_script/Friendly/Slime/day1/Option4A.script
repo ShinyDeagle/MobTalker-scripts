@@ -1,0 +1,9 @@
+#SET_NAME Gelatinous Girl
+#FACE Shy
+Really?
+#FACE Angry
+Well I don't want yours.
+#ATTACK 1
+#DECREASE_LOVE 1
+#FINISH_DAY
+#END

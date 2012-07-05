@@ -1,0 +1,8 @@
+#SET_NAME (playername)
+Excuse me!::Letter for slime girl!
+#SET_NAME Gelatinous Girl
+Coming!
+..Oh.It's you.
+#ATTACK 1
+#INCREASE_LOVE 5
+#END

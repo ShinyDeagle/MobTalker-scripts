@@ -1,0 +1,5 @@
+#SET_NAME Creeper
+You again?::I will have my revenge!
+#ATTACK 1
+#INCREASE_LOVE 2
+#END

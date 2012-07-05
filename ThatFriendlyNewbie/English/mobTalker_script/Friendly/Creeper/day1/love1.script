@@ -1,0 +1,4 @@
+#SET_NAME Scared Creeper
+C...CAT!!! G..GET IT AWAY FROM ME!!!!!
+#CONDITION{[Look out it's next to you!,Option1A],[What cat? I don't see any cats around here. ,Option1B],[Does it looks like this one I just caught~?,Option1C]}
+#END

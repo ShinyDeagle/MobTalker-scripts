@@ -1,0 +1,5 @@
+#SET_NAME Andr
+You again?::Didn't get enough yesterday?
+#ATTACK 1
+#INCREASE_LOVE 1
+#END

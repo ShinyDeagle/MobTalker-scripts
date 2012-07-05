@@ -1,0 +1,5 @@
+#SET_NAME Gelatinous Girl
+#FACE Angry
+Why do you keep poking me!
+#CONDITION{[Hey. I just want to get your attention ,Option4A],[I like watching your breasts jiggle~ ,Option4B],[I have a few pistons that need adhesive.,Option4C]}
+#END

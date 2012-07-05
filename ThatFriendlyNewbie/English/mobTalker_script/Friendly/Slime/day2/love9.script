@@ -1,0 +1,23 @@
+#SET_NAME Gelatinous Girl
+Humph. A mature grownup like me won't lose her temper.
+So... What brings you here?
+#SET_NAME (playername)
+Nothing. I'm just fooling around.
+#SET_NAME Gelatinous Girl
+Wh-What?::Are you that bored, or you have too much youth to waste?
+#SET_NAME (playername)
+.........
+#SET_NAME Gelatinous Girl
+Oh...oohhhh....sorry...
+Ok,ok,eh...
+Let me..be your friend?
+#SET_NAME (playername)
+um...Okay.
+What's your name?
+#SET_NAME Gelli
+Gelli.::Yours?
+#SET_NAME (playername)
+(playername)
+#DECREASE_LOVE 1
+#FINISH_DAY
+#END

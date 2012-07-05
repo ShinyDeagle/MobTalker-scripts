@@ -1,0 +1,13 @@
+#SET_NAME Gelatinous Girl
+You asked such thing to a person you just met.::
+You are either a retard or an idiot!
+#SET_NAME (playername)
+.......Or both?
+(Aren't two the same thing?)
+Anyway, what's your name?
+#SET_NAME Gelli
+If you must know, it's Gelli
+#ATTACK 1
+#DECREASE_LOVE 2
+#FINISH_DAY
+#END
