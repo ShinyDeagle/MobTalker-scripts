@@ -1,6 +1,7 @@
 #SET_NAME Andr
 #FACE Shy
-Because you look...eh...How should I put it...kinda scary.
+Because you look...eh...::How should I put it...kinda scary.
 #INCREASE_LOVE 1
+#SET_ACTIVE_ATTACK off
 #FINISH_DAY
 #END

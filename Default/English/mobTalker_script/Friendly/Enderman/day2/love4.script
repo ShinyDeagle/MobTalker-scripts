@@ -20,5 +20,6 @@ Maybe.....um... I'll recongize it on first sight.
 #SET_NAME (playername)
 Yeah, good luck for that.
 #INCREASE_LOVE 4
+#SET_ACTIVE_ATTACK off
 #FINISH_DAY
 #END
