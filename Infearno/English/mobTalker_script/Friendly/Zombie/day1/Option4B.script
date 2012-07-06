@@ -1,0 +1,8 @@
+#SET_NAME Yaebi
+#FACE Shy
+Huh, try if you can.
+#ATTACK 1
+#INCREASE_LOVE 1
+#SET_ACTIVE_ATTACK off
+#FINISH_DAY
+#END

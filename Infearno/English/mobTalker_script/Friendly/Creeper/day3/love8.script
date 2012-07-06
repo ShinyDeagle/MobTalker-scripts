@@ -1,0 +1,11 @@
+#FETCH_NAME
+#SET_NAME Cupa
+#FACE Normal
+Good morning!::Did you sleep well?
+#SET_NAME (playername)
+Yeah, thanks.
+#SET_NAME Cupa
+#FACE Shy
+Hey... I've been meaning to ask you...::Are you single?
+#CONDITION{[Yes.,Option2A],[No.,Option2B]}
+#END

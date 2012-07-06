@@ -1,0 +1,8 @@
+#SET_NAME Cupa
+#FACE Angry
+What, really?
+#INCREASE_LOVE 1
+#SET_NAME Cupa
+#FACE Happy
+Hey! It's gone!::It must have gotten bored.
+#END

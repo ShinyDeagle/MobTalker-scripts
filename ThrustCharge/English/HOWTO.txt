@@ -1,0 +1,13 @@
+Installation instructions
+==========================
+
+To install, first make sure you have the MobTalker Mod correctly installed.
+Then just drop the "mobTalker_script" folder into your minecraft resources folder.
+
+
+
+Installations-Anleitung
+==========================
+
+Zum installieren, stelle erst sicher, dass der Mobtalker-Mod korrekt installiert wurde.
+Dannach verschiebe einfach den "mobTalker_script"-Order in deinen minecraft resources Ordner.

@@ -1,0 +1,29 @@
+#FETCH_NAME
+#SET_NAME Cupa
+Hello again!
+#SET_NAME (playername)
+Hi, Cupa!
+#SET_NAME Cupa
+#FACE Happy
+So, what are you gonna do today?
+#SET_NAME (playername)
+I dunno. I might hunt, or improve my house. Or go mining...
+#SET_NAME Cupa
+#FACE Normal
+Sounds like fun! My species is bad at home improvement,::though. You know, because of our exploding and stuff.
+#SET_NAME (playername)
+That stinks.
+#SET_NAME Cupa
+It's not all bad, I mean... we can::defend ourselves from monsters and stuff.
+#SET_NAME (playername)
+I suppose.
+#SET_NAME Cupa
+#FACE Tired
+*Yawn*
+#FACE Angry
+Man, I'm really tired. I'll see you tomorrow, okay?
+#SET_NAME (playername)
+Good night, Cupa.
+#INCREASE_LOVE 3
+#FINISH_DAY
+#END

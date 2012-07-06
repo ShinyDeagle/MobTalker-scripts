@@ -1,0 +1,34 @@
+#FETCH_NAME
+#SET_NAME (playername)
+Hello again.::Want to talk some more?::I even brought your pal, Kitty, to cheer you up.
+#SET_NAME Cupa
+#FACE Tired
+Uh...
+Okay, okay, you don't need to release the cat! I surrender....
+#SET_NAME (playername)
+Come on!::Don't you want some payback?
+#SET_NAME Cupa
+#FACE Angry
+I don't want to hurt you! Can't you see that?
+#SET_NAME (playername)
+No, I can't.
+By the way, who are you?
+#SET_NAME Cupa
+#FACE Tired
+Who am I?::Are you blind?::I'm a creeper!
+#SET_NAME (playername)
+A proper name, not a species.
+#SET_NAME Cupa
+#FACE Angry
+No. I'm not telling you my name.
+#SET_NAME (playername)
+Come on. Please? I know you want to!
+#SET_NAME Cupa
+Get stuffed! No means NO!
+#SET_NAME (playername)
+Oh look, Kitty's coming.
+#SET_NAME Cupa
+#FACE Tired
+Stop it!
+#SELF_DEAD
+#END

@@ -1,0 +1,10 @@
+#SET_NAME Yaebi
+you asked such thing to a person you just met.::
+You are either retard or an idiot!
+#SET_NAME (playername)
+.......Or both?
+(Aren't two the same thing?)
+#ATTACK 1
+#DECREASE_LOVE 2
+#FINISH_DAY
+#END

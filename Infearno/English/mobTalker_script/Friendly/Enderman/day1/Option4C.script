@@ -1,0 +1,7 @@
+#SET_NAME Andr
+#FACE Angry
+Now why would I lend to a stranger, eh?
+#ATTACK 3
+#DECREASE_LOVE 3
+#FINISH_DAY
+#END

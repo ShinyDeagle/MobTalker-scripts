@@ -1,0 +1,9 @@
+#SET_NAME Cupa
+#FACE Angry
+I... I...
+#DECREASE_LOVE 6
+#SET_NAME Cupa
+#FACE Sad
+I have to go.
+#SELF_DEAD
+#END

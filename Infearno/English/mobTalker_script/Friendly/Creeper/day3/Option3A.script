@@ -1,0 +1,17 @@
+#FETCH_NAME
+#SET_NAME Cupa
+#FACE Happy
+That's great!
+#FACE Shy
+I want to be... you know...::in a relationship with you.
+#SET_NAME (playername)
+I do too!
+#SET_NAME Cupa
+#FACE Shy
+...
+#FACE Happy
+*Giggle*::I'm sorry I'm being so shy... I've never met anyone like you before.
+#FACE Normal
+Let's talk more tomorrow, okay?
+#FINISH_DAY
+#END

@@ -1,0 +1,5 @@
+#SET_NAME Cupa
+#FACE Tired
+I'm allergic to cats, and I think I saw one following me.::Please don't make fun of me, either.::I have a serious problem with cats.
+#CONDITION{[There it is! Behind you!,Option1A],[I don't see a cat.,Option1B],[Does it looks like this one I just caught?,Option1C]}
+#END

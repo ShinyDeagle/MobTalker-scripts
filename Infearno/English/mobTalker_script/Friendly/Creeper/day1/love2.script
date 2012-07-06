@@ -1,0 +1,17 @@
+#FETCH_NAME
+#SET_NAME Cupa
+#FACE Shy
+Thanks for helping me, stranger.
+#SET_NAME Cupa
+#FACE Normal
+Oh, I forgot to introduce myself.::My name's Cupa, and it's a pleasure to meet you.
+#SET_NAME Cupa
+And you are?::
+#FETCH_NAME
+#SET_NAME (playername)
+I'm (playername).
+#SET_NAME Cupa
+(playername)? What a nice name.::Well, it was nice meeting you. I hope we can talk more tomorrow.
+#INCREASE_LOVE 3
+#FINISH_DAY
+#END

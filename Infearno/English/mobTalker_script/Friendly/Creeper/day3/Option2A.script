@@ -1,0 +1,7 @@
+#SET_NAME Cupa
+#FACE Shy
+Oh my...
+#FACE Tired
+Uh... I like you a lot, but::do you like me?
+#CONDITION{[I like you too.,Option3A],[I'm sorry, but I don't like you that way.,Option3B]}
+#END
