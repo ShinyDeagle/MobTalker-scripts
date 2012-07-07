@@ -1,8 +1,0 @@
-#SET_NAME (playername)
-Good evening!::Miss zombie!Your registered letter!
-#SET_NAME Yaebi
-Coming!
-..Oh.It's you.
-#ATTACK 1
-#INCREASE_LOVE 5
-#END

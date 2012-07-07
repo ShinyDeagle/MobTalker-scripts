@@ -1,0 +1,16 @@
+#FETCH_NAME
+#SET_NAME Gelli
+#FACE Normal
+Well... It's sorta strange...
+One of the split slimes retains the same memories and personality::But the other ones get new minds.
+#FACE Sad
+I have so many memories of being sliced in half...::*Sniffle*
+#SET_NAME (playername)
+Hey, it's okay.::I sometimes remember dying too.::It scares me a little.
+#SET_NAME Gelli
+#FACE Shy
+Thanks.::*Hug*::That's a little comforting.
+#SET_NAME (playername)
+No problem.
+#FINISH_DAY
+#END

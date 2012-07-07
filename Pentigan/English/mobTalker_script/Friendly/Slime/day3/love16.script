@@ -1,0 +1,6 @@
+#FETCH_NAME
+#SET_NAME Gelli
+#FACE Happy
+Is this the place you want me to live?
+#CONDITION{[Yes. Like it? ,Option15A],[No. Just checking if you were okay. ,Option15B]}
+#END

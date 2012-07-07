@@ -1,4 +1,0 @@
-#SET_NAME Ender
-Is bothering others your hobby? 
-#CONDITION{[No,I'm not coming for the Pearl today.,Option1A],[Yes, yes, indeed. Problem? ,Option1B]}
-#END

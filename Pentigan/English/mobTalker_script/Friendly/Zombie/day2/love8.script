@@ -1,9 +1,0 @@
-#SET_NAME (playername)
-And postman need to sleep at night.
-#SET_NAME Yaebi
-Darn it!:: Again!
-#SET_NAME (playername)
-Problem?
-#ATTACK 1
-#INCREASE_LOVE 1
-#END

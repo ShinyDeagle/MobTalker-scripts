@@ -1,4 +1,0 @@
-#SET_NAME Ender
-(sob)Do...don't look at me.
-#CONDITION{[You've got a pretty face. Why are you covering it with tears? ,Option4A],[Whoa! What's you crying for?, Option4B],[I want to eh... borrow your Ender Pearl~ ,Option4C]}
-#END

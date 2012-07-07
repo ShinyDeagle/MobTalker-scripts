@@ -6,5 +6,5 @@ Hello~::I've been waiting for you to return~
 Thanks~
 #SET_NAME Blazette
 Uh...::Small issue, forgot to mention it earlier...::Not entirely sure how genders work for humans...::You a boy or a girl?
-#CONDITION{[I'm a boy (Nonfunctional ATM),Option15A],[I'm a girl. Like you,Option15B]}
+#CONDITION{[I'm a boy (Credit to ShadicZX),Option15A],[I'm a girl. Like you,Option15B]}
 #END

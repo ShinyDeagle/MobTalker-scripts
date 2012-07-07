@@ -1,9 +1,0 @@
-#SET_NAME Ender
-#FACE Shy
-......
-#FACE Angry
-You don't understand...
-#ATTACK 1
-#DECREASE_LOVE 1
-#FINISH_DAY
-#END

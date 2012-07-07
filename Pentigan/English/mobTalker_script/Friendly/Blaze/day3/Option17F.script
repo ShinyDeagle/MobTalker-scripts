@@ -1,6 +1,0 @@
-#FETCH_NAME
-#SET_NAME Blazette
-#FACE Happy
-Come on, choose one.
-#CONDITION{[One,Option17A],[Uh... Two?,Option17B],[More...,Option17C]}
-#END

@@ -1,0 +1,6 @@
+#FETCH_NAME
+#SET_NAME Gelli
+#FACE Happy
+Oh, is the walk over?
+#CONDITION{[Yeah. I was thinking we could stay here. ,Option5A],[Nah. There's still cool stuff to see. ,Option5B]}
+#END

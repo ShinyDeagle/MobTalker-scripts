@@ -1,0 +1,31 @@
+#FETCH_NAME
+#SET_NAME (playername)
+So, up for a little more poking~?
+#SET_NAME Gelli
+#FACE Angry
+Hold it right there. First I want to set some ground rules.
+First, you've gotta ask.
+#SET_NAME (playername)
+I did. :P
+#SET_NAME Gelli
+Second, You can't be too rough, at least not till I'm ready for it.::And thirdly, only use your hands, I don't want you licking me...
+#SET_NAME (playername)
+That's fine.
+So, can I have a poke~?
+#SET_NAME Gelli
+... ... Fine. *Closes her eyes*
+#SET_NAME (playername)
+(She seems a little embarassed...)::*Squeezes Gelli's shoulder a little*::There, done.
+#SET_NAME Gelli
+*Suppresses a giggle*::Well, I guess that wasn't too bad...::But I think I'm done for today.
+#SET_NAME (playername)
+That's fine.
+#SET_NAME Gelli
+Thanks. For not...
+#SET_NAME (playername)
+You didn't feel comfortable, so I didn't go too far.
+#SET_NAME Gelli
+*Smile*
+#INCREASE_LOVE 1
+#FINISH_DAY
+#END

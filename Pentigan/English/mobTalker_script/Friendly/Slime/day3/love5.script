@@ -1,0 +1,17 @@
+#FETCH_NAME
+#SET_NAME Gelli
+#FACE Happy
+Hi (playername).::*Squishyhug*
+#SET_NAME (playername)
+*You ponder the feeling of being hugged by semi-solid goo*::Hi Gelli.
+#SET_NAME Gelli
+So got any ideas what to do today?
+#SET_NAME (playername)
+How about we go for a walk? There's plenty of cool stuff around here.
+#SET_NAME Gelli
+Okay~!::*Stops hugging*::I'll follow you.
+#SET_NAME (playername)
+(If you want, this would be the best time to take Gelli somewhere you can access her more easily.)
+#SET_FOLLOW true
+#INCREASE_LOVE 1
+#END

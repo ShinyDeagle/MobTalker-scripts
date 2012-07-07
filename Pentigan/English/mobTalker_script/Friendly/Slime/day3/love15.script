@@ -1,0 +1,27 @@
+#FETCH_NAME
+#SET_NAME Gelli
+Hi (playername)~!
+I thought, maybe...
+#SET_NAME (playername)
+Yes?
+#SET_NAME Gelli
+To be fair, this cave is a little dingy.
+#SET_NAME (playername)
+(Yeah, I know it's a plot hole if you spawned her into a house, but just go with me here.)
+So what did you have in mind?
+#SET_NAME Gelli
+Do you have somewhere I could live?
+#SET_NAME (playername)
+Oh... Sure.
+#SET_NAME Gelli
+Thanks!::*Jumps a little, accidentally jiggling herself*
+#SET_NAME (playername)
+*Blush*
+#SET_NAME Gelli
+*Notices the blush*::Oh dear~::*Giggle*
+Well come on, where's this place I can live?
+#SET_NAME (playername)
+(Don't worry, you can build one while she's following you.)
+#SET_FOLLOW true
+#INCREASE_LOVE 1
+#END

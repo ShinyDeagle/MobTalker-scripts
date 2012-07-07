@@ -1,0 +1,29 @@
+#FETCH_NAME
+#SET_NAME Gelli
+#FACE Happy
+Hello!
+#SET_NAME (playername)
+Hi.
+#SET_NAME Gelli
+#FACE Normal
+So...::Anything on your mind?
+#SET_NAME (playername)
+Anything on yours?
+#SET_NAME Gelli
+Well, I was a little interested in you humans.::Mind answering something for me?
+#SET_NAME (playername)
+Sure, as long as I can ask you a question.
+#SET_NAME Gelli
+That's fine.::So anyway, how do you humans...
+#SET_NAME (playername)
+Oh... Uh... Well when two people really like each other...
+#SET_NAME Gelli
+#FACE Shy
+I wasn't going to ask that! *Giggle*::I mean, how do you do so much?::Like carry all that stuff and chop down a tree with your hand?
+#SET_NAME (playername)
+#FACE Normal
+Oh, whoops.::Personally, I don't actually know how I do all that stuff.::It just... Happens.
+#SET_NAME Gelli
+Oh, that's very interesting. Okay, now you can ask me something.
+#CONDITION{[Why do you spend so much time underground? ,Option5A],[What happens when Slimes split? ,Option5B],[Well how do Slimes...? ,Option5C]}
+#END

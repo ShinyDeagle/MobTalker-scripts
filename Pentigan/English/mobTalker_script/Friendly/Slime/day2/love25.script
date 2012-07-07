@@ -1,0 +1,15 @@
+#FETCH_NAME
+#SET_NAME Gelli
+#FACE Angry
+It's you again!
+#SET_NAME (playername)
+Yep ^_^::Your favorite neighbour!
+#SET_NAME Gelli
+*Glare*::At least you aren't calling me fat...
+#SET_NAME (playername)
+Oh, thanks for reminding me. :P
+#SET_NAME Gelli
+*Angrilly jiggles*::I don't have time for this.::*Storms off*
+#INCREASE_LOVE 1
+#FINISH_DAY
+#END
