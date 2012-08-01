@@ -1,0 +1,6 @@
+#SET_NAME Snow Golem
+#FACE Angry
+What? 
+#INCREASE_LOVE 2
+#ACTIVE_ATTACK off
+#END

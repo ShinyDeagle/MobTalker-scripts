@@ -1,0 +1,4 @@
+#SET_NAME Snow Golem
+Who are you?
+#CONDITION{[I don't know ,Option1A],[I'm your creator,Option1B],[Who me? i'm here for snowballs ,Option1C]}
+#END

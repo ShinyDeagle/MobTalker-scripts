@@ -1,0 +1,21 @@
+#FETCH_NAME
+#SET_NAME (playername)
+i'm still going to take your snow.
+#SET_NAME Jean
+Fine you can have my Snow
+#SET_NAME (playername)
+Come on!::Don't you want to punch me in the face?
+#SET_NAME Jean
+I was just kidding! anyway you're my master.
+But i don't want a master like you!
+#SET_NAME (playername)
+Of course no problem
+#SET_NAME Jean
+Geez i'm going to another place 
+#SET_NAME (playername)
+Well, Have an Ice day!
+#SET_NAME Jean
+Please don't do that again
+#INCREASE_LOVE 2
+#FINISH_DAY
+#END

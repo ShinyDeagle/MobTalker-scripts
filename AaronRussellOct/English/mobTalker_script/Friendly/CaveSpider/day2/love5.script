@@ -1,0 +1,10 @@
+#FETCH_NAME
+#SET_NAME Yu
+#FACE Happy
+See what?
+#SET_NAME (playername)
+Oh common don't do this again like yesterday
+#SET_NAME Yu
+What? anyway do you want to ask me something?
+#CONDITION{[Yes. Do you have a sister? ,Option5A],[No need little girl,Option5B]}
+#END

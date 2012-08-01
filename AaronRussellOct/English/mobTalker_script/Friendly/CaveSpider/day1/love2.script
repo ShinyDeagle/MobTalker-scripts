@@ -1,0 +1,47 @@
+#SET_NAME Yu
+Yu
+#SET_NAME (playername)
+No not me, you!
+#SET_NAME Yu
+Yes I'm Yu.
+#SET_NAME (playername)
+Just answer the damn questions Who are you?
+#SET_NAME Yu
+I have told you.
+#SET_NAME (playername)
+Are you deaf?
+#SET_NAME Yu
+No, Yu is blind.
+#SET_NAME (playername)
+I'm not blind, you blind.
+#SET_NAME Yu
+That is what i just said.
+#SET_NAME (playername)
+You just said what?
+#SET_NAME Yu
+I did not say what, i said Yu.
+#SET_NAME (playername)
+That's what i'm asking you.
+#SET_NAME Yu
+And Yu is answering..
+#SET_NAME (playername)
+Shutup!
+#SET_NAME (playername)
+You! *Pointing on another Spider*
+#SET_NAME Yu
+Yes?
+#SET_NAME (playername)
+Not you, her!::What's your name?
+#SET_NAME Mi
+Mi.
+#SET_NAME (playername)
+Yes you!
+#SET_NAME Mi
+I am Mi.
+#SET_NAME Yu
+She's Mi, and I'm Yu
+#SET_NAME (playername)
+And i'm about to whoop yo tiny A** cause i'm sick of playing games.::YOU,ME, EVERYBODY'S A** AROUND HERE. HER!
+#INCREASE_LOVE 1
+#FINISH_DAY
+#END

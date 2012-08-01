@@ -1,0 +1,7 @@
+#FETCH_NAME
+#SET_NAME Yu
+You don't need a girl even i don't like you.
+#SET_NAME (playername)
+Oh really? let see about that later.
+#INCREASE_LOVE 1
+#END

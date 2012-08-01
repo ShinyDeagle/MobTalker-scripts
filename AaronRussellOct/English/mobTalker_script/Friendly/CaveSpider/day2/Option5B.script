@@ -1,0 +1,8 @@
+#SET_NAME Yu
+#FACE Happy
+Okay, that's fine with me.
+#SET_NAME (playername)
+oh yeah my name is (playername)
+#INCREASE_LOVE 21
+#FINISH_DAY
+#END

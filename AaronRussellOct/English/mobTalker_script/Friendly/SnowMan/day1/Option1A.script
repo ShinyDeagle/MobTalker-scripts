@@ -1,0 +1,8 @@
+#SET_NAME Snow Golem
+#FACE SAD
+Oh no, I don't remember anything Ahhh.. Who are you
+#ATTACK 3
+#DECREASE_LOVE 3
+#SELF_DEAD
+#REV_TRANS
+#END

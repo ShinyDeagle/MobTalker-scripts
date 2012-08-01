@@ -1,0 +1,6 @@
+#SET_NAME Cupa
+You again?::I will have my revenge!
+#ATTACK 1
+#INCREASE_LOVE 2
+#SET_ACTIVE_ATTACK off
+#END

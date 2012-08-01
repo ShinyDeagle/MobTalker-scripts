@@ -1,0 +1,15 @@
+#FETCH_NAME
+#SET_NAME Snow Golem
+#FACE Happy
+So what's my name?
+#SET_NAME (playername)
+Hmm how about Jean?.
+#SET_NAME Jean
+I Love it! who's your name?
+#SET_NAME (playername)
+Just call me (playername).
+#SET_NAME Jean
+(playername)? What a nice name.
+#INCREASE_LOVE 3
+#FINISH_DAY
+#END

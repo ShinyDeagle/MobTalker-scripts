@@ -1,0 +1,25 @@
+#FETCH_NAME
+#SET_NAME (playername)
+So your real name was Yu 
+#SET_NAME Yu
+Yes.
+#SET_NAME (playername)
+Sorry for saying that yesterday so you really blind?
+#SET_NAME Yu
+No i'm just joking
+#SET_NAME (playername)
+so can i help your friends?
+#SET_NAME Yu
+no one wants your help
+#SET_NAME (playername)
+Why would they not want my help?
+#SET_NAME Yu
+Cause they don't like you. i don't like you!
+#SET_NAME (playername)
+I don't care i here for the girl
+#SET_NAME Yu
+The girl don't like you. nobody likes you!
+You came here for nothing
+#ATTACK 1
+#INCREASE_LOVE 1
+#END

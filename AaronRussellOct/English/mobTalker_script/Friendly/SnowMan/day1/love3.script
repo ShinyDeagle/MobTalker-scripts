@@ -1,0 +1,20 @@
+#FETCH_NAME
+#SET_NAME (playername)
+You're gonna give me that snow
+#SET_NAME Snow Golem
+Wa.wait what?::Why you do this to me
+#SET_NAME (playername)
+Ok,ok, no harm's done.::I suddenly want you to be melt
+#SET_NAME Snow Golem
+#FACE Angry
+Why? I Hate you!
+#SET_NAME (playername)
+How sweet i love you too
+#SET_NAME Jean
+and i decided to make my own name it's Jean! 
+#SET_NAME (playername)
+Actually that's what i'm going to name you
+#ATTACK 1
+#INCREASE_LOVE 1
+#FINISH_DAY
+#END
