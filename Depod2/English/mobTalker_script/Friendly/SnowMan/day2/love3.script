@@ -1,0 +1,13 @@
+﻿#SET_NAME Neige
+#FACE Happy
+Ah, you came back!
+#FACE Normal
+Is it alright if I ask you something?
+#FETCH_NAME
+#SET_NAME (playername)
+Yes, it's alright. What is it?
+#SET_NAME Neige
+#FACE Shy
+Do you want to date?
+#CONDITION{[I suppose I could. ,Option3A],[How can I put this... NO. , Option3B]}
+#END

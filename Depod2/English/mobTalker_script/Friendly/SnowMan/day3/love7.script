@@ -1,0 +1,11 @@
+﻿#FETCH_NAME
+#SET_NAME (playername)
+I brought some snowballs.
+*You give her the snowballs*
+#SET_NAME Neige
+#FACE Happy
+Thank you so much for this!::I, I don't know how much to thank you!
+#SET_NAME (playername)
+It's alright, no need to thank me.
+#INCREASE_LOVE 1
+#END

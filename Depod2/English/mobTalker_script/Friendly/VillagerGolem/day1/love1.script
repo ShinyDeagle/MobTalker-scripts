@@ -1,0 +1,9 @@
+﻿#SET_NAME Iron Golem
+Why do you keep bothering me?
+#FETCH_NAME
+#SET_NAME (playername)
+I find you... wierd.::Why are you like that anyway?
+#SET_NAME Iron_Golem
+I have been designed for battle, nothing else.
+#INCREASE_LOVE 1
+#END

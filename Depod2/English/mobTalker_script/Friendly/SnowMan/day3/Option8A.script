@@ -1,0 +1,10 @@
+﻿#SET_NAME Neige
+#FACE Happy
+Yay! I just love you so much!
+*Gives you a hug*
+#FETCH_NAME
+#SET_NAME (playername)
+I love you too.
+#INCREASE_LOVE 1
+#FINISH_DAY
+#END

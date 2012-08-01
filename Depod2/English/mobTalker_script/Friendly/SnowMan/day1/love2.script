@@ -1,0 +1,18 @@
+﻿#SET_NAME Snow Golem
+Want to have a snowball fight?
+#SET_NAME Storyline
+A few minutes later...
+#SET_NAME Snow Golem
+#FACE Happy
+That sure was fun! Oh, I forgot to ask something.::What's your name?
+#FETCH_NAME
+#SET_NAME (playername)
+My name is (playername)
+#SET_NAME Neige
+#FACE Normal
+And my name is Neige. Maybe we can get together tomorrow?
+#SET_NAME (playername)
+I guess I could spare some time.
+#INCREASE_LOVE 1
+#FINISH_DAY
+#END

@@ -1,0 +1,21 @@
+﻿#SET_NAME Neige
+#FACE Happy
+You're back! *Giggle*
+#FETCH_NAME
+#SET_NAME (playername)
+You seem to be exited today. What for?
+#SET_NAME Neige
+It's my birthday today! I'm turning eighteen!
+#SET_NANE (playername)
+Do you want anything?
+#SET_NAME Neige
+#FACE Shy
+Oh, you don't have to get me anything.
+#SET_NAME (playername)
+Are you sure?
+#SET_NAME Neige
+Well, maybe five snowballs?
+#SET_NAME (playername)
+Ok, I'll go get some for you.
+#INCREASE_LOVE 1
+#END

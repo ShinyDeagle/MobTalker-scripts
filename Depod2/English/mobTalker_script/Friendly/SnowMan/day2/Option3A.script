@@ -1,0 +1,11 @@
+﻿#SET_NAME Neige
+#FACE Happy
+Really? Yay!
+#FETCH_NAME
+#SET_NAME (playername)
+That's all? I thought you we're going to hug me...
+#SET_NAME Neige
+#FACE Normal
+You'll get that hug, I promise.
+#INCREASE_LOVE 1
+#END

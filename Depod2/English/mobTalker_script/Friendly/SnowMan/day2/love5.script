@@ -1,0 +1,9 @@
+﻿#SET_NAME Neige
+#FACE Happy
+Maybe we can get together tomorrow again.
+#FETCH_NAME
+#SET_NAME (playername)
+Of course, it's been fun ever since I found you.
+#INCREASE_LOVE 1
+#FINISH_DAY
+#END

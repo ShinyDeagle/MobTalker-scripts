@@ -1,0 +1,10 @@
+﻿#SET_NAME Neige
+#FACE Shy
+Well, I was wondering something...
+#FETCH_NAME
+#SET_NAME (playername)
+Ok, what is it?
+#SET_NAME Neige
+I love you a lot and, do you want to marry me?
+#CONDITION{[Yes, I do! ,Option8A],[Sorry, but no. ,Option8B]}
+#END

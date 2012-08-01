@@ -1,0 +1,13 @@
+﻿#FETCH_NAME
+#SET_NAME (playername)
+Well, maybe one day we can battle toghether.
+#SET_NAME Iron Golem
+Possibly, but when you get a good sword.
+#SET_NAME (playername)
+Oh, I forgot to ask something.::What's your name?
+#SET_NAME Iron Golem
+I don't know. I think I don't have one at all.
+Well, I must protect the villagers now.::Come talk to me tomorrow, I'll try finding my name.
+#INCREASE_LOVE 1
+#FINISH_DAY
+#END

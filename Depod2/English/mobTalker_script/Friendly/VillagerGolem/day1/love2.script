@@ -1,0 +1,11 @@
+﻿#FETCH_NAME
+#SET_NAME (playername)
+Why are you used as a tool? Why don't you be free?
+#SET_NAME Iron Golem
+Heh, you seem to be very curious.::I can never be free, I must protect the villagers.
+#SET_NAME (playername)
+You're rusty, maybe I should get something to help?
+#SET_NAME Iron Golem
+Hmm, maybe 10 coal or charcoal would do.
+#INCREASE_LOVE 1
+#END

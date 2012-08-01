@@ -1,0 +1,18 @@
+﻿#SET_NAME Neige
+#FACE Shy
+Well... Do you want to have another snowball fight?
+#FETCH_NAME
+#SET_NAME (playername)
+Of course, it's fun playing with you.
+#SET_NAME Neige
+#FACE Happy
+You too, (playername).
+#SET_NAME Storyline
+A couple of minutes later...
+#SET_NAME Neige
+#FACE Happy
+Boy, that sure was fun.
+#FACE Normal
+I'm glad you came.
+#INCREASE_LOVE 1
+#END

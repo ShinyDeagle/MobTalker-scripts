@@ -1,0 +1,11 @@
+﻿#SET_NAME Neige
+#FACE Sad
+Oh, ok then. I'll leave you alone.
+*Starts walking away while crying*
+#FETCH_NAME
+#SET_NAME (playername)
+Wait! You don't have to go!
+#DECREASE_LOVE 3
+#SELF_DEAD
+#REV_TRANS
+#END

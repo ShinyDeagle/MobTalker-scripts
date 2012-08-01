@@ -1,0 +1,9 @@
+﻿#FETCH_NAME
+#SET_NAME (playername)
+I have the materials.
+*You give her the materials*
+Do you need anything else?
+#SET_NAME Iron Golem
+I'm alright traveller, there is no use in helping me any further.::I will get rusted and damaged again either way.
+#INCREASE_LOVE 1
+#END
