@@ -1,13 +1,13 @@
 #SET_NAME Charloette
-Hello again, I hope you had a good time. I'm Charloette by the way.
+Hello again, I hope you had a good time! I'm Charloette by the way.
 #FETCH_NAME
 #SET_NAME (playername)
 I'm (playername)
 #SET_NAME Charloette
 #FACE Happy
-Well it's a pleasure meeting you. I am the guardian of these lands,::so if anyone bothers you, come to me!
+Well it's a pleasure meeting you.::I am the guardian of these lands::so if anyone bothers you, come see me!
 #SET_NAME (playername)
 I'll keep that in mind
-#INCREASE_LOVE 5
+#INCREASE_LOVE 1
 #FINISH_DAY
 #END

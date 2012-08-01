@@ -4,5 +4,6 @@ Are you lying? You had better not...
 #FETCH_NAME
 #SET_NAME (playername)
 Don't you worry, I'm not here to do harm!
+#SET_ACTIVE_ATTACK no
 #INCREASE_LOVE 4
 #END

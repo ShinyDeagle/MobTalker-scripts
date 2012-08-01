@@ -1,4 +1,8 @@
+#FETCH NAME
+#SET_NAME (playername)
+Please stop shooting me!
+#FACE Angry
 #SET_NAME Ghast
-Do you come in peace?
-#CONDITION{[Of course! I would never harm you!,Option1A],[Don't mind me - I'm just mining!,Option1B],[Get out of my Face you beast!,Option1C]}
+Why should I?
+#CONDITION{[I am a friend - not a foe!,Option1A],[I'm just mining!,Option1B],[Aargh! I'm going to kill you!,Option1C]}
 #END

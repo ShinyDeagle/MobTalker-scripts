@@ -3,10 +3,10 @@
 Thank you! I'm Charloette. What's your name?
 #FETCH_NAME
 #SET_NAME (playername)
-I'm (playername)::Charloette... That's a nice name.
+I'm (playername).::Charloette... That's a nice name.
 #SET_NAME Charloette
 #FACE Shy
 ...thanks...
-#INCREASE_LOVE 3
+#INCREASE_LOVE 7
 #FINISH_DAY
 #END

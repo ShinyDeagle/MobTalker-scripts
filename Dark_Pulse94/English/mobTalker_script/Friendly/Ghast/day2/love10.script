@@ -1,10 +1,14 @@
 #FETCH_NAME
-#SET_NAME Blazette
-#FACE Happy
-I just had the most wicked idea.
+#SET_NAME Charolette
+Good morning sleepy head! How did you enjoy your night?
 #SET_NAME (playername)
-Huh?
-#SET_NAME Blazette
-I... I like you quite a bit.::And I... I want to take our relationship up a notch.::What do you think?
-#CONDITION{[Anything you want (NSFW option),Option5A],[I think we're in a good place,Option5B]}
+It was ok, a little lonely though.
+#SET_NAME Charloette
+#FACE Happy
+You should come and stay in the Foretress!
+#Face Normal
+I know it's a little dark,::but you're good with building,::right, mr. miner?
+#SET_NAME (playername)
+I'll think about it
+#INCREASE_LOVE 1
 #END

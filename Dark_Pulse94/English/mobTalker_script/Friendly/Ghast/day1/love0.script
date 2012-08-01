@@ -1,6 +1,6 @@
 ﻿#SET_NAME Ghast
 #FACE Angry
 You Shall not Pass!
-#ATTACK 1
+#SET_ACTIVE_ATTACK yes
 #INCREASE_LOVE 1
 #END

@@ -10,7 +10,7 @@ Haha! Don't you like my Fireballs?
 #SET_NAME (playername)
 I just like to keep my clothes intact
 #SET_NAME Ghast
-#FACE Normal
-Ok then, I'll keep that in mind...
+#FACE Shy
+Ok then, I'll keep that in mind...::(too bad I guess...)
 #INCREASE_LOVE 1
 #END

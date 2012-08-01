@@ -1,0 +1,9 @@
+#FETCH_NAME
+#SET_NAME Charloette
+Morning!
+#SET_NAME (playername)
+Good morning Charloette
+#SET_NAME Charloette
+So... Do you have anything to do today?
+#CONDITION{[Not today - I came to see you,Option6A],[I'm getting some materials for my house,Option6B],[I need Gunpowder. So...,Option6C]}
+#END

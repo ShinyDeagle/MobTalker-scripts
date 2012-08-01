@@ -1,0 +1,8 @@
+#FETCH_NAME
+#SET_NAME Charloette
+#FACE Shy
+Oh...::Why would you come to see me?
+#SET_NAME (playername)
+Because I like you, Charloette
+#INCREASE_LOVE 3
+#END
